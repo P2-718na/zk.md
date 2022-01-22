@@ -7,5 +7,5 @@ $d: \mathbb{X}\times\mathbb{X} \rightarrow \mathbb{R}^+ :=$ `metrica` $:\Leftrig
 ##### `DEF` Spazio metrico
 $(\mathbb{X}, d)$, con $\mathbb{X} \subseteq \mathbb{R}^n$ e $d$ [[#DEF Metrica|metrica]] $:\Leftrightarrow$ `spazio metrico`
 
-`OSS` Ad ogni [[#DEF Spazio metrico|spazio metrico]] è associata una [[Topologico#DEF Topologia|topologia]] presa come:
+`OSS` Ad ogni [[#DEF Spazio metrico|spazio metrico]] è associata una [[Spazio topologico#DEF Topologia|topologia]] presa come:
 $\tau := {B_r(a) \in \mathbb{X}}$ (vedi: [[Intorno circolare aperto]])

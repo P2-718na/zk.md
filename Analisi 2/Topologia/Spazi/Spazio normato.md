@@ -7,4 +7,4 @@ $\lVert \cdot \lVert : \mathbb{X} \rightarrow \mathbb{R} :=$ `norma` $:\Leftrigh
 ##### `DEF` Spazio normato
 $(\mathbb{X}, \lVert \cdot \lVert)$, con $\mathbb{X} \subseteq \mathbb{R}^n$ e $\lVert \cdot \lVert$ [[#DEF Norma|norma]] $:\Leftrightarrow$ `spazio normato`.
 
-`OSS` Se $(\mathbb{X}, \lVert \cdot \lVert)$ è spazio normato $\implies$ $(\mathbb{X}, d)$ con $d$ [[metrica indotta dalla norma]] $d(x, y) = \lVert x - y \lVert$.
+`OSS` Se $(\mathbb{X}, \lVert \cdot \lVert)$ è spazio normato $\implies$ $(\mathbb{X}, d)$ con $d$ [[Metrica indotta dalla norma]] $d(x, y) = \lVert x - y \lVert$.

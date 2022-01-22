@@ -5,7 +5,7 @@ con $B_{r_a}(a)$ [[Intorno circolare aperto|palla aperta]].
 Ovvero,
 _Un insieme è aperto se ogni punto al suo interno è circondato solamente da punti appartenenti all'insieme (o se è vuoto)._
 
-`OSS` Gli elementi di una [[Topologico#DEF Topologia|topologia]] sono detti `Insiemi aperti`.
+`OSS` Gli elementi di una [[Spazio topologico#DEF Topologia|topologia]] sono detti `Insiemi aperti`.
 Infatti, si può dimostrare che le due definizioni sono equivalenti.
 
 `OSS` La proprietà di un insieme di essere aperto dipende dalla metrica scelta. Alcune metriche sono più utili di altre.

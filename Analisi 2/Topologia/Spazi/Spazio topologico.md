@@ -3,7 +3,7 @@ $\tau$ famiglia di sottoinsiemi di  $\mathbb{X} :=$ `topologia su X` $:\Leftrigh
     1. $\emptyset, \mathbb{X} \in \tau$
     2. $A_\alpha \in \tau \underset{\alpha \in I}{\forall} \implies [\underset{\alpha \in I}{\bigcup}A_\alpha] \in \tau$ 
     3. $A_i \in \tau \underset{i \in [n]}{\forall} \implies [\underset{i \in [n]}{\bigcap}A_i] \in \tau$ 
-Gli elementi di $\tau$ sono detti [[Aperto|insiemi aperti]].
+Gli elementi di $\tau$ sono detti [[Insieme aperto|insiemi aperti]].
 
 `NOTA`
 (2.) equivale a: l'**unione** di un numero **finito o infinito** di insiemi appartenenti a tau, appartiene a tau.
