@@ -1,4 +1,4 @@
-##### `DEF` Funzione differenziabile 
+''##### `DEF` Funzione differenziabile 
 Siano $A \subseteq \mathbb{R}^n$ [[Insieme aperto#DEF Insieme aperto|aperto]], $f := (f_1,\ \ldots,\ f_m) : A \rightarrow \mathbb{R}^m$, $x_0 \in A$. $f :=$ `differenziabile in x_0` $:\Leftrightarrow$
 $$\underset{L \in M_{n, m}(\mathbb{R})}{\exists}\ |\ f(x) = f(x_0) + L(x-x_0) + o(\lVert x - x_0 \lVert)$$
 equivalente a (applicando la definizione di [[o piccolo]]):
@@ -25,12 +25,12 @@ $f$ è [[#DEF Funzione differenziabile|differenziabile]] in un punto $x_0 \impli
 
 --------------
 ##### `OSS` Condizione sufficiente alla differenziabilità
-Ci è data dal [[teorema del differenziale totale]].
+Ci è data dal [[Teorema del differenziale totale#THM Teorema del differenziale totale|teorema del differenziale totale]].
 
 --------------
 ##### `THM`  Conseguenze della differenziabilità
 $f$ è [[#DEF Funzione differenziabile|differenziabile]] in un punto $x_0 \implies$
-    1) $f$ [[continua]] in $x_0$
+    1) $f$ [[Continuità#DEF Funzione continua|continua]] in $x_0$
     2) $L \equiv J_f(x_0)$
 `OSS` Se una funzione è differenziabile in un punto, il suo differenziale esiste ed è unico, e corrisponde alla sua [[Matrice Jacobiana|Jacobiana]]. (de marco 224)
 #deepen 

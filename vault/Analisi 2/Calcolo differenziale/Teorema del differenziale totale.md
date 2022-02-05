@@ -1,7 +1,7 @@
 Il teorema del differenziale totale ci fornisce una _condizione sufficiente_ alla differenziabilità di una funzione in un punto.
 #####  `THM` Teorema del differenziale totale
 $D \subseteq \mathbb{R}^n$ [[Insieme aperto|aperto]], $Y\ \ \mathbb{R}$-[[spazio normato]], $f: D \rightarrow Y$ funzione $:\rightarrow$
-    $\exists \partial_1f \ldots \partial_nf$ in un [[Intorno di un punto|intorno]] di $p$ $\land$ sono [[continue]] in $p$ $\implies$ $f$ è [[Differenziale#DEF Funzione differenziabile|differenziabile]] in $p$.
+    $\exists \partial_1f \ldots \partial_nf$ in un [[Intorno di un punto|intorno]] di $p$ $\land$ sono [[Continuità#DEF Funzione continua|continue]] in $p$ $\implies$ $f$ è [[Differenziale#DEF Funzione differenziabile|differenziabile]] in $p$.
 
 `DIM` #todo 227 de marco
 

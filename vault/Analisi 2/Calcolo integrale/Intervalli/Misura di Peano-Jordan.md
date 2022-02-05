@@ -1,0 +1,3 @@
+#todo 
+concettualmente, esetende la definizione di funzione integrabile secondo riemann ad uno spazio a n-dimensioni.
+Qui non posso più usare la nozione di "somma integrale superiore/inferiore", che viene quindi rimpiazzata da una [[Misura]]. La misura di peano-jordan è definita infatti proprio come il valore di una delle due: "superiore delle misure inferiori == inferiore delle misure superiori" (nel caso in cui le due siano uguali)

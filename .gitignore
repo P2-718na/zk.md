@@ -7,5 +7,9 @@
 ehthumbs.db
 Thumbs.db
 
-.obsidian
-*.css
+# Obsidian-related stuff
+vault/.obsidian
+vault/*.css
+
+# Private data (if any)
+vault/Private
