@@ -9,3 +9,6 @@ $(\mathbb{X}, d)$, con $\mathbb{X} \subseteq \mathbb{R}^n$ e $d$ [[#DEF Metrica|
 
 `OSS` Ad ogni [[#DEF Spazio metrico|spazio metrico]] è associata una [[Spazio topologico#DEF Topologia|topologia]] presa come:
 $\tau := {B_r(a) \in \mathbb{X}}$ (vedi: [[Intorno circolare aperto]])
+
+
+#deMarco 61

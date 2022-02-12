@@ -1,0 +1,3 @@
+[Wolfram](https://www.wolframalpha.com/) permette di fare tante cose. Peccato solo che non sia open source.
+
+È estremamente utile scaricare [wolframscript](https://www.wolfram.com/wolframscript/), assieme a [engine](https://www.wolfram.com/engine/). In questo modo si può utilizzare da terminale il linguaggio di [Mathematica](https://www.wolfram.com/mathematica/?source=nav), senza pagare. Se si combina questo con [Jupter](https://jupyter.org/) e https://github.com/WolframResearch/WolframLanguageForJupyter, si ottiene qualcosa di ""simile"" a mathematica.

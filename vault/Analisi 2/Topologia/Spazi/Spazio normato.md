@@ -1,10 +1,18 @@
-##### `DEF` Norma
-$\lVert \cdot \lVert : \mathbb{X} \rightarrow \mathbb{R} :=$ `norma` $:\Leftrightarrow$
-    1.  $\underset{x \in \mathbb{X}}{\forall}, (\lVert x \lVert \geq 0) \land (\lVert x \lVert = 0 \iff x = 0)$
-    2.  $\underset{x \in \mathbb{X}}{\forall} \hspace{5px} \underset{\lambda \in \mathbb{R}}{\forall}, \lVert \lambda x \lVert = |\lambda| \lVert x \lVert$
-    3. $\underset{x, y \in \mathbb{X}}{\forall}, \lVert x + y \lVert \leq \lVert x \lVert + \lVert y \lVert$
+Concettualmente, la norma di un vettore rappresenta la "lunghezza" di un vettore. Segue la definizione formale:
+#### `DEF` Norma
+Sia $X$ un $\mathbb{K}-$[[spazio vettoriale]]. La funzione: $\lVert \cdot \lVert : X \rightarrow \mathbb{R}$ è detta $:=$ `norma` $:\Leftrightarrow$
+    1.  $\underset{x \in X}{\forall}\ (\lVert x \lVert \geq 0) \land (\lVert x \lVert = 0 \iff x = 0)$
+    2.  $\underset{x \in X}{\forall} \hspace{5px} \underset{\lambda \in \mathbb{R}}{\forall}\ \lVert \lambda x \lVert = |\lambda| \lVert x \lVert$
+    3. $\underset{x, y \in X}{\forall}\ \lVert x + y \lVert \leq \lVert x \lVert + \lVert y \lVert$
 
-##### `DEF` Spazio normato
-$(\mathbb{X}, \lVert \cdot \lVert)$, con $\mathbb{X} \subseteq \mathbb{R}^n$ e $\lVert \cdot \lVert$ [[#DEF Norma|norma]] $:\Leftrightarrow$ `spazio normato`.
+`OSS` Vettore nullo ha sempre norma nulla (segue da punto 2)
+`OSS` Dal punto uno segue che: $\lVert x \lVert \implies x = 0$. Una norma dove non vale questa osservazione, è detta **seminorma**.
 
-`OSS` Se $(\mathbb{X}, \lVert \cdot \lVert)$ è spazio normato $\implies$ $(\mathbb{X}, d)$ con $d$ [[Metrica indotta dalla norma]] $d(x, y) = \lVert x - y \lVert$.
+(vedi: [[Norme notevoli]])
+
+---
+#### `DEF` Spazio normato
+La coppia ordinata $(X, \lVert \cdot \lVert)$, con $X$ $\mathbb{K}-$[[spazio vettoriale]] e $\lVert \cdot \lVert$ [[#DEF Norma|norma]] è detta $:=$ `spazio normato`.
+
+
+#deMarco 61

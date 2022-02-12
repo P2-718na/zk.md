@@ -1,4 +1,3 @@
-#sesso_lineare_approssimato
 Praticamente, le trasformazioni lineari di coordinate (anche roba con angoli, pensa tipo alle matrici di rotazione)
 
 ##### `THM` Cambio di coordinate
