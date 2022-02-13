@@ -15,8 +15,8 @@ $$A_k = \begin{pmatrix}a_{11} & \cdots & a_{1k} \\ \vdots & \ddots & \vdots \\ a
 $:\rightarrow$
 1. $A$ è [[Forma quadratica#THM Classificazione di matrici simmetriche associate a forme quadratiche|definita positiva]] $\iff$ $detA_k > 0 \underset{k \in [n]}{\forall}$
 2. $A$ è [[Forma quadratica#THM Classificazione di matrici simmetriche associate a forme quadratiche|definita negativa]] $\iff$ $(-1)^k\ detA_k > 0 \underset{k \in [n]}{\forall}$
-#sauce: https://cosedimatematica.it/lezioni/algebra-lineare/matrici-definite-positive-e-negative/
-#sauce https://www.youmath.it/lezioni/algebra-lineare/matrici-e-vettori/2694-matrice-definita-positiva-semidefinita-positiva-e-negativa.html
+#link: https://cosedimatematica.it/lezioni/algebra-lineare/matrici-definite-positive-e-negative/
+#link  https://www.youmath.it/lezioni/algebra-lineare/matrici-e-vettori/2694-matrice-definita-positiva-semidefinita-positiva-e-negativa.html
 `APPL` In pratica, si calcolando i determinanti dei minori di testa.
 Se sono tutti maggiori di zero, allora A è def. positiva. Se sono alternati i segni (-) e (+) con i (-) in posizione DISPARI (1, 3...) allora è def. negativa.
 Se uno dei (-) è FUORI POSTO, allora è INDEFINITA.

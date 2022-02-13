@@ -1,2 +1,2 @@
 ##### Quasi ovunque
-il termine **quasi ovunque** definisce una proprietà che vale in tutti i punti di un [insieme](https://it.wikipedia.org/wiki/Insieme_(matematica) "Insieme (matematica)"), tranne al più in un [sottoinsieme di misura nulla](https://it.wikipedia.org/wiki/Insieme_nullo_(teoria_della_misura) "Insieme nullo (teoria della misura)"). (da [wikipedia](https://it.wikipedia.org/wiki/Quasi_ovunque))
+il termine **quasi ovunque** definisce una proprietà che vale in tutti i punti di un [[insieme]], tranne al più in un [sottoinsieme di misura nulla](https://it.wikipedia.org/wiki/Insieme_nullo_(teoria_della_misura) "Insieme nullo (teoria della misura)"). (da [wikipedia](https://it.wikipedia.org/wiki/Quasi_ovunque))

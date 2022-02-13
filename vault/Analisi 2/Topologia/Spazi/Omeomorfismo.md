@@ -1,4 +1,4 @@
-##### `DEF` Om*e*omorfismo
+#### `DEF` Om*e*omorfismo
 $X$, $Y$ [[Spazio topologico|spazi topologici]]. Si definisce `omeomorfismo di X su Y` la funzione $f$ tale che:
 $f: X \to Y$ [[Continuità#DEF Funzione continua|continua]] e [[biiettiva]] $\land$ $f^{-1}: Y \to X$ [[Continuità#DEF Funzione continua|continua]]
 
