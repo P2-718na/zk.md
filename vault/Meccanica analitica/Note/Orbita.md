@@ -1,0 +1,1 @@
+![[orbita oscillatore armonico.gif]]
