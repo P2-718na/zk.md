@@ -1,8 +1,8 @@
 ### Corso
 Luisa Cifarelli. 6 crediti, 40 ore lezione (inclusi seminari) + 12 ore esercitazioni (prof. Andrea Alici).
-[Lezioni Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2NkZTQ5MzgtMTY2Yi00YTcyLTgxNGUtM2FjYjAyNDgwNWM4%40thread.v2/0?context=%7b%22Tid%22%3a%22e99647dc-1b08-454a-bf8c-699181b389ab%22%2c%22Oid%22%3a%22af69d290-4444-4b71-8892-3331f1972be8%22%7d)
+[Lezioni Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2NkZTQ5MzgtMTY2Yi00YTcyLTgxNGUtM2FjYjAyNDgwNWM4%40thread.v2/0?context=%7b%22Tid%22%3a%22e99647dc-1b08-454a-bf8c-699181b389ab%22%2c%22Oid%22%3a%22af69d290-4444-4b71-8892-3331f1972be8%22%7d) [Virtuale](https://virtuale.unibo.it/course/view.php?id=27914)
 #### Esercitazioni
-Concettualmente, il corso non è molto formale (grandi dimostrazioni, cazzate varie). Il calendario delle esercitazioni è fissato (vedi [virtuale](https://virtuale.unibo.it/course/view.php?id=27914)).
+Concettualmente, il corso non è molto formale (grandi dimostrazioni, cazzate varie). Il calendario delle esercitazioni è fissato (vedi virtuale).
 #### Seminari
 Anche qui, vedi calendari su [virtuale](https://virtuale.unibo.it/course/view.php?id=27914). I seminari sono colleghi della prof. che spiega quello che fanno sotto al gran sasso.
 `oss` Seminari prob. inutili (?), però ad occhio e croce saranno la parte più intressante del corso. => segui.
@@ -32,5 +32,10 @@ Studio: via Irnerio (primo piano).
 3. _Relativity Matters_, Springer 2017 => argomenti completamente random di relatività
 4. _Special Relativity_, Springer 2014 => altra roba random, "non è male".
 
-### Argomenti del corso:
+### Argomenti trattati:
 #### Introduzione storica
+[[Introduzione storica]]
+[[Galileo Galilei]]
+[[Trasformazione Galileiana]]
+[[Trattazione del Gran Naviglio]]
+[[Sistema di riferimento proprio]]

@@ -8,8 +8,8 @@ Continua: [[Trattazione del Gran Naviglio]]
 
 ![[Pasted image 20220221122324.png]]
 
-![[Principi di Galilei.png]]
+![[principi di Galilei.png]]
 Al primo principio, in realtà, avevano lavorato altri pensatori. Per sempio, Giordamo Bruno. (Aveva immaginato un esperimento di una nave che risale un fiume, con sopra un albero. La nave passa sotto ad un ponte. Un uomo in cima all'albero lancia un sasso quando la nave passa sotto ad un ponte. Lancia un sasso anche la persona sul ponte. La conclusione alla fine non era molto "fisica", però l'esperimento era comunque interessante).ù
 
 Continua:: [[Principio di Inerzia di Galilei]]
-Continuya:: [[Principio di relatività di Galilei]]
+Continua:: [[Principio di relatività di Galilei]]

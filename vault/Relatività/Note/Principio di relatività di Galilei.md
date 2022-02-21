@@ -9,7 +9,7 @@ Relatività galileinaa (teoria classica)vv
 ![[Pasted image 20220221124521.png]]
 ![[Pasted image 20220221124703.png]]
 ^^ È difficile (impossibile?) identificare un sr assoluto. _Come faccio a dire se mi trovo in un sr. assoluto?_
-Beh, Newton cerca di individuare le [[_stelle fisse_]] come spazio di riferimento assoluto. In realtà, neanche queste basteranno, però amen Newton fa questa _approssimazione_.
+Beh, Newton cerca di individuare le [[stelle fisse]] come spazio di riferimento assoluto. In realtà, neanche queste basteranno, però amen Newton fa questa _approssimazione_.
 
 ### Tempo
 ![[Pasted image 20220221125021.png]]

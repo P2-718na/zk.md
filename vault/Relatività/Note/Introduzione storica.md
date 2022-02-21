@@ -1,5 +1,6 @@
 Introduzione storica
 #lezione
+#todo
 ![[Pasted image 20220221115926.png]]
 Concettualmente, tutta la fisica moderna contiene al suo interno la relatività.
 
