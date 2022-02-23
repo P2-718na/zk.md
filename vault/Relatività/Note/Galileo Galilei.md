@@ -13,3 +13,4 @@ Al primo principio, in realtà, avevano lavorato altri pensatori. Per sempio, Gi
 
 Continua:: [[Principio di Inerzia di Galilei]]
 Continua:: [[Principio di relatività di Galilei]]
+Continua:: [[Osservazioni di Galileo dei satelliti di Giove]]

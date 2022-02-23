@@ -1,0 +1,2 @@
+![[Pasted image 20220222114642.png]]
+Manfredi fu il fondatore dlel'"accademia degli inquieti" che diventerà poi l'accademia delle scienze. Lui fa osservamenti sulla parallasse stellare. Le sue osservazioni furomno molto importanti appunto per dimostrare che la terra si muove attorno al sole. Grazie a lui, certi scrutti di galilei che furoni messi all'indice vennero riabilitati (grazie a tipo infatti c'era l'osserfazione sperimentale della chiesa).
