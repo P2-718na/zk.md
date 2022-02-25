@@ -73,3 +73,5 @@ Qui ci aspettiamo di sicuro un valore positivo. Come espressione, ci aspettiamo 
 (???)
 
 => In un ciclo, tanta energia entra quanto esce.
+
+![[Pasted image 20220224103642.png]]

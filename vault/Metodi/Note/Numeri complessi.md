@@ -79,6 +79,16 @@ $$
 ##### `DEF` Esponenziale di un complesso
 Vedi: [[Formula di Eulero]]
 
+### Rotazioni nel piano
+Si osserva che, dato un numero complesso $z$, la sua moltiplicazione per un altro complesso di modulo $1$, corrisponde ad una _rotazione sul piano di Argand-Gauss_:
+$$
+z = \rho\ e^{i\theta}\hspace{20px} w = e^{i\varphi}
+$$
+$$
+z \cdot w = \rho\ e^{i(\theta + \varphi)}
+$$
+
+
 Continua: [[Altre rappresentazioni dei complessi]]
 Continua: [[Formula di Eulero]]
 

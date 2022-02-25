@@ -11,5 +11,9 @@
 L'esame è solo orale, ma nell'orale è presente anche una parte in cui ti chiede degli esercizi. Gli esercizi sono tutti negli appunti, all'orale ti chiede uno degli esercizi negli appunti + altri temi d'esame. "Per avere 30/30L, bisogna sapere tutto. Per voti più bassi, si possono skippare un po' di dimostrazioni. La cosa più importante è sapere fare i calcoli."
 
 ### Argomenti trattati
-#### [[Metodi/Note/Numeri complessi|Numeri complessi]]
-definizione, alcune prorpietà, esercizi. [[Formula di De Moivre]]
+##### Lezione 1
+- [[Metodi/Note/Numeri complessi|Numeri complessi]]: definizione, alcune prorpietà, esercizi. [[Formula di De Moivre]].
+- Esercizi 1, 2, 3, 4 (vedi appunti).
+##### Lezione 2
+- [[Quaternioni]], accenno a [[Ottanioni]] (algebra non associativa).
+- [[Funzioni a variabile complessa]], limiti complessi differenziabilità e [[olomorfismi]]

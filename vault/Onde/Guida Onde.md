@@ -59,3 +59,4 @@ Orale obbligatorio.
 [[Regime delle piccole oscillazioni]]
 [[Moto armonico e complessi]]
 [[Vettori rotanti (fasori)]]
+[[Oscillatore armonico smorzato]]

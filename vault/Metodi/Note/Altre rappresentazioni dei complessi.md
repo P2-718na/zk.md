@@ -24,6 +24,7 @@ $$
 \right. 
 $$
 (dove si è usata la nozione di [[arcotangente estesa]]).
+I coefficienti $\rho$ e $\theta$ sono detti rispettivamente, __modulo__ e __anomalia__.
 
 `OSS` Il prodotto tra due complessi in forma polare è dato da:
 $$z_1 z_2 = \rho_1 \rho_2 \left( cos(\theta_1 + \theta_2) + i\ sen(\theta_1 + \theta_2)\right)$$

@@ -14,4 +14,4 @@ J_f(p) :=
     \nabla f_m(\vec{p})
 \end{bmatrix} \ \
 $$
-`THM` La jacobiana di una [[Differenziale#DEF Funzione differenziabile|funzione differenziabile]] corrisponde al suo differenziale
+`THM` La jacobiana di una [[Funzione differenziabile#DEF Funzione differenziabile|funzione differenziabile]] corrisponde al suo differenziale
