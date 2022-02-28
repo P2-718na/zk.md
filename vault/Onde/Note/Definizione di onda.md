@@ -1,4 +1,5 @@
-##### `DEF` Onda
+#cleanme
+##### `DEF` Onda (definizione empirica)
 Un'onda è una perturbazione di una grandezza fisica, dipendente sia dal tempo che dallo spazio.
 
 `ESEMPIO`
@@ -20,8 +21,8 @@ Nell'intorno della regione localizzata dove ho la perturbazione, nascono delle o
 ![[todo def oscillazione.png]]
 
 ##### `DEF` Oscillazione
-Le oscillazioni, essenzialmente, sono "onde prese in un sigolo puntp dello spazio" ^29211c
+Le oscillazioni, essenzialmente, sono "onde prese in un sigolo punto dello spazio" ^29211c
 
-^^ Fintanto che parliamo di onde gravitazionali, meccaniche, em, etch.. non si ha trasporto di materia. Per altre onde (es. onde quantistiche), si ha spostamento di materia.
+^^ Fintanto che parliamo di onde gravitazionali, meccaniche, em, etc.. non si ha trasporto di materia. Per altre onde (es. onde quantistiche), si ha spostamento di materia.
 
 Continua [[Tipi di onda]]

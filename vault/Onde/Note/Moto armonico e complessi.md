@@ -1,4 +1,7 @@
+#cleanme
 Concettualmente, i [[numeri complessi]] sono molto utili nel caso in cui ci siano equazioni differenziali con soluzione sinusoidale: lavorando in $\mathbb{C}$, infatti, queste soluzioni diventano algebriche (lineari).
+
+`APPL` __In fast__: praticamente per usare sta roba pluggo in $Ae^{i\phi}$ le equazioni del moto ($A$ = ampiezza, in $\phi$ ci metto l'argomento del coseno) e prendo la parte reale. Derivare equivale a moltiplicare per $i\omega_0$, integrare equivale a dividere per la stessa quantità.
 
 ### Moto armonico dato da un numero complesso
 In particolare, la [[Formula di Eulero|notazione esponenziale]] ci aiuta, perchè si può dimostrare che _il moto armonico è descritto dalla parte reale di un numero complesso_. Vediamo come:

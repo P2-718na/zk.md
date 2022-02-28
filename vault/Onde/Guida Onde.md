@@ -1,6 +1,6 @@
 ### Corso
 Mauro Villa
-[Lezioni Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDQyMmMxMTItN2RiNC00ZTBjLTkxMjctZTg2OTk1MTk2MGE3%40thread.v2/0?context=%7b%22Tid%22%3a%22e99647dc-1b08-454a-bf8c-699181b389ab%22%2c%22Oid%22%3a%2255cf41f2-666e-4a8b-92e0-630878079bcc%22%7d) [Virtuale](https://virtuale.unibo.it/course/view.php?id=29417)
+[Lezioni 'Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDQyMmMxMTItN2RiNC00ZTBjLTkxMjctZTg2OTk1MTk2MGE3%40thread.v2/0?context=%7b%22Tid%22%3a%22e99647dc-1b08-454a-bf8c-699181b389ab%22%2c%22Oid%22%3a%2255cf41f2-666e-4a8b-92e0-630878079bcc%22%7d) [Virtuale](https://virtuale.unibo.it/course/view.php?id=29417) [Pagina del corso](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434319)
 
 #### Obiettivi del corso
 - __Capire bene cosa sono le onde__ <= obiettivo principale.
@@ -14,29 +14,32 @@ Continua => [[Definizione di onda]]
 Continua => Oscillazioni
 
 #### Organizzazione del corso
-- Oscillazioni lineari
-  - ![[Pasted image 20220221143558.png]]
-  In particolare, analisi di Fourier è swag e servirà anche avanti.
-- ![[Pasted image 20220221143627.png]]
+- Oscillazioni lineari. Formalismo complesso, fasori, analisi di Fourier.
+- Onde meccaniche: onda su corda elastica, onde sonore, energia, potenza (1 dimensione). Interferenza e battimenti, onde nello spazio 3d.
     - In particolare, osserviamo che le onde meccaniche vengono tutte descritte dalla stessa equazione (d'Alembert), che ha diverse proprietà che vedremo.
-- ![[Pasted image 20220221143718.png]]
-    - (+  di fatto le onde meccaniceh sono vettoriali e non scalari. Per approfondire, si può guardare "all'indietro" dopo aer studiato qiuelle vettoriali.)
-- ![[Pasted image 20220221143839.png]]
-    - Queste solo accennate.
+- Onde elettromagnetiche: proprietà vettoriali; polarizzazione; energia e potenza in 3 dimensioni; interferenza e diffrazione.
+    - (+  di fatto le onde meccaniche sono vettoriali e non scalari. Per approfondire, si può guardare "all'indietro" dopo aer studiato qiuelle vettoriali.)
+ - Ottica: ottica geometrica; propagazione della luce in mezzi trasparenti; prismi, specchi, diottri, lenti e sistemi ottici.
+    - (Queste solo accennate).
 
 #### Orario
 Esercizi martedì e mercoledì. (Per ora, fino a 15 marzo. Dopo 15 marzo, ninente più ore del mercoledì.)
 
 #### Consigli
-![[Pasted image 20220221144000.png]]
+- Seguire quotidianamente le lezioni
+- Magari leggendo prima un testo sull'argomento della lezione
+- Sicuramente riguardando il prima possibile quanto è stato spiegato
+- Rispettare propedeuticità
+
 
 #### Testi
 _Onde e ottica_, Focardi
 Importante: eserciziario (_Sioli, Villa_ yess soldi non buttati - Onde meccaniche), _Bruno, d'Agostino_ (onde elettromagnetiche).
 
 #### Altre info
-![[Pasted image 20220221144628.png]]
-![[Pasted image 20220221144641.png]]
+Ricevimenti:
+- Villa: venerdì 15-17 (appuntamento)
+- Vodola: lunedì 17-19 (appuntamento)
 (Entro domenica, slide per tutta settimana dopo.)
 
 #### Esame
@@ -47,16 +50,27 @@ Scritto si supera prendendo 18+. 1h30 tempo, circa
 Voto dello scritto dura per tutta la sessione, fino al primo appello della sessione successiva.
 **Orale**: Domande su minimo tre argomenti differenti, da almeno 2 persone diverse. Prenotazione 2 gg prima dell'esame.
 Orale obbligatorio.
-![[Pasted image 20220221145044.png]]
+Si chiedono dimostrazioni. Molte domande riguarderanno il principio di causa-effetto: "perchè succede questo?"
 
 #### Date
-![[Pasted image 20220221145205.png]]
+![[date esame onde.png]]
 
-### Temi trattati
+#### Temi trattati
+##### Lezione 1
 [[Definizione di onda]]
 [[Forza di Hooke]]
-[[Oscillatore armonico]]
+[[Oscillatore armonico]], [[Conservazione dell'energia nei moti armonici]]
+[[Moti oscillatori in sistemi non meccanici]]
 [[Regime delle piccole oscillazioni]]
 [[Moto armonico e complessi]]
-[[Vettori rotanti (fasori)]]
-[[Oscillatore armonico smorzato]]
+[[Vettori rotanti (fasori)]] #todo
+##### Lezione 2
+[[Oscillazioni smorzate]]
+[[Oscillazioni forzate]] periodiche e non
+[[Impedenza meccanica]]
+[[Soluzioni stazionarie per oscillatori forzati]] e andamenti caratteristici
+[[Funzione di risposta ]](+ esempi)
+[[Fattore di qualità]] (+ esempi)
+
+[[Onde/Note/Lezione3/lezione3]]
+[[Onde/Note/Lezione4/Lezione4]]

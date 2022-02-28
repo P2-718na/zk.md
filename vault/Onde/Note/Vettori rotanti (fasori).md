@@ -1,4 +1,5 @@
-#todo qui non si capisce un cazzo
+#cleanme
+Qui si è capito poco per ora. Sono sicuro che ci ritorneremo, per ora lascio così
 ![[Pasted image 20220221155123.png]]
 (??)
 Il vettore velocità è $\dot{z}$, che sarà perpendicolare al mio vettore z(t).

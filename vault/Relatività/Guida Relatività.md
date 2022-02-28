@@ -40,3 +40,5 @@ Studio: via Irnerio (primo piano).
 [[Trattazione del Gran Naviglio]]
 [[Sistema di riferimento proprio]]
 [[Velocità della luce]]
+
+[[Relatività/Lezione3/lezione3]]
