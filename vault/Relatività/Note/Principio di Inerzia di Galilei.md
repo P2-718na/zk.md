@@ -1,0 +1,2 @@
+![[principio di inerzia.png]]
+Piccola considerazione sulle approssimazioni: la "bottiglia appoggiata sul tavolo", in realtà, subisce forze da tutte le cose che le stanno attorno (gravità, elettromagnetica, raggi cosmici ecc...)... Tuttavia, il sistema è rappresentato molto bene dal modello "forze = gravità + reazione vincolare". Insomma, _con considerazioni opportune, si può effettivamente considerare un corpo come se sia isolato, senza allontanarsi troppo dal "vero"_.

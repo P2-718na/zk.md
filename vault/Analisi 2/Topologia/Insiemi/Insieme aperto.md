@@ -1,7 +1,7 @@
 ##### `DEF` Insieme aperto
 Un [[Insieme|insieme]] $A \subseteq \mathbb{X} :=$  `aperto nello spazio metrico (X, d)` $:\Leftrightarrow$
 $$(A \equiv \emptyset) \lor (\underset{a \in A}{\forall} \hspace{5px} \underset{r_a > 0}{\exists} \mid B_{r_a} (a) \subseteq A)$$
-con $B_{r_a}(a)$ [[Intorno circolare aperto|palla aperta]].
+con $B_{r_a}(a)$ [[Palla|palla aperta]].
 Ovvero,
 _Un insieme è aperto se ogni punto al suo interno è circondato solamente da punti appartenenti all'insieme (o se è vuoto)._
 

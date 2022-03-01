@@ -1,0 +1,1 @@
+Orologio con atomi particolari che risuonano ad una certa frequenza. Misurando le oscillazioni degli atomi, si può determinare il tempo in modo molto preciso. Il materiale più utilizzato è il Cesio, eccitato tramite MASER (equivalente del laser, ma senza luce).
