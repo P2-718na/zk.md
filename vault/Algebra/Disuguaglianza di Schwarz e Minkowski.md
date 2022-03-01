@@ -1,7 +1,7 @@
 Sia $<\cdot\ |\ \cdot>$ un [[prodotto scalare]] su H. Valgono $:\Rightarrow$
 #### `THM`  Disuguaglianza di Schwarz
-$$\mid<x\ |\ y>\mid\ \leq\ |x||y|$$
-con l'uguaglianza che vale $\iff$ $x$ ed $y$ sono [[linearmente indipendenti]].
+$$\mid<x\ |\ y>\mid\ \leq\ \lVert x \lVert \cdot \lVert y \lVert$$
+con l'uguaglianza che vale $\iff$ $x$ ed $y$ sono [[linearmente indipendenti]]. Il termine a sinistra è il _valore assoluto_ del prodotto scalare. I termini a destra sono le _norme_ dei vettori
 #### `THM`  Disuguaglianza di Minkowski
 Se $|x|$ è definita come la [[Spazio normato#1 DEF Norma Euclidea|norma euclidea]]$^1$, $:\Rightarrow$
 $$
