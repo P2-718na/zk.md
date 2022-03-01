@@ -10,9 +10,6 @@ Mauro Villa
 - Fenomeni comuni a diversi ambiti in cui centrano le onde.
     - In questo corso studieremo le onde meccaniche.
 
-Continua => [[Definizione di onda]]
-Continua => Oscillazioni
-
 #### Organizzazione del corso
 - Oscillazioni lineari. Formalismo complesso, fasori, analisi di Fourier.
 - Onde meccaniche: onda su corda elastica, onde sonore, energia, potenza (1 dimensione). Interferenza e battimenti, onde nello spazio 3d.
@@ -57,7 +54,7 @@ Si chiedono dimostrazioni. Molte domande riguarderanno il principio di causa-eff
 
 #### Temi trattati
 ##### Lezione 1
-[[Definizione di onda]]
+[[Definizione di onda]] #cleanme
 [[Forza di Hooke]]
 [[Oscillatore armonico]], [[Conservazione dell'energia nei moti armonici]]
 [[Moti oscillatori in sistemi non meccanici]]
@@ -66,11 +63,15 @@ Si chiedono dimostrazioni. Molte domande riguarderanno il principio di causa-eff
 [[Vettori rotanti (fasori)]] #todo
 ##### Lezione 2
 [[Oscillazioni smorzate]]
-[[Oscillazioni forzate]] periodiche e non
+[[Oscillazioni forzate]] periodiche e non 
 [[Impedenza meccanica]]
 [[Soluzioni stazionarie per oscillatori forzati]] e andamenti caratteristici
 [[Funzione di risposta ]](+ esempi)
 [[Fattore di qualità]] (+ esempi)
-
+[[Onde/Note/Lezione2/lezione2]]
+##### Lezione 3
 [[Onde/Note/Lezione3/lezione3]]
+##### Lezione 4
 [[Onde/Note/Lezione4/Lezione4]]
+##### Lezione 5
+[[Onde/Note/Lezione5/Lezione5]]

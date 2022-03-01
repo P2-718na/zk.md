@@ -41,4 +41,6 @@ Studio: via Irnerio (primo piano).
 [[Sistema di riferimento proprio]]
 [[Velocità della luce]]
 
+[[Relatività/Lezione2/lezione2]]
 [[Relatività/Lezione3/lezione3]]
+[[Relatività/Lezione4/lezione4]]

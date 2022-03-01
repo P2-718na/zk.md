@@ -24,7 +24,9 @@ Su virtuale, dati di test da analizzare. => Discussione durante turni di lab (no
 
 #### Relazioni
 Gli esperimenti sono a COPPIA (iscriversi assieme), tuttavia ogni studente invia una relazione (anche se firmata da due persone) (identica, per la coppia) OBBLIGATORIA.
-Vedi indicazioni relazioni su slide introduzione. Voto finale: da 0 a 6
+Vedi indicazioni relazioni su slide introduzione. Voto finale: da 0 a 6.
+Per gli esperimenti possiamo fittare dati con quello che ci pare
+Importante, sapere in che modo sta fittando il programma.
 
 #### Orale
 Presentazione a computer dell'esperienza (10 minuti) + discussione...
@@ -45,3 +47,7 @@ Vedi slide, essenzialmente. Istruzioni per scrivere buona mail, vedi slide.
 - Incertezze casuali e sistematiche (slide)
 - Adattamento di un modello a dati sperimentali. [[Differenza tra FIT e test delle ipotesi]].
 - Regressione lineare e stima delle incertezze.
+#####  Lezione 2
+- [[Funzioni di merito]]
+- [[Come valutare un fit]], [[Esempi di fit]], [[Incertezze standard]].
+- [[Minimizzare il chi quadro]], discorso su intervalli di confidenza.

@@ -17,4 +17,4 @@ L'esame è solo orale, ma nell'orale è presente anche una parte in cui ti chied
 ##### Lezione 2
 - [[Quaternioni]], accenno a [[Ottanioni]] (algebra non associativa).
 - [[Funzioni a variabile complessa]], limiti complessi differenziabilità e [[olomorfismi]]
-[[Lezione5]]
+[[Metodi/Lezione5/Lezione5]]
