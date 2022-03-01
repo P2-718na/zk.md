@@ -1,0 +1,1 @@
+Vedi: [[Spazio metrico#^c0f1a2]]
