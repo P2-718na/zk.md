@@ -9,7 +9,7 @@ In particolare, per il [[Teorema di Rolle]] almeno uno di questi due punti è di
 ^^ In A il gradiente della forza è negativo, quindi è _stabile_. ==> Vicino al punto A, quindi, 
 _io posso scrivere la mia forza posizionale usando una serie_. 
 
-Espando la mia forza generica usando la [[Formula di Taylor]]
+Espando la mia forza generica usando la [[Serie di Taylor]]
 ![[Pasted image 20220221153357.png]]
 E osservo che il primo termine è un numero (derivata prima valutata in $x_A$) moltiplicato per un $\Delta x$, che corrisponde proprio alla [[Forza di Hooke|Legge di Hooke]]
 ![[Pasted image 20220221153714.png]]

@@ -63,7 +63,7 @@ Si chiedono dimostrazioni. Molte domande riguarderanno il principio di causa-eff
 [[Vettori rotanti (fasori)]] #todo
 ##### Lezione 2
 [[Oscillazioni smorzate]]
-[[Oscillazioni forzate]] periodiche e non 
+[[Oscillazioni forzate]], con forzante costante e [[Oscillazioni con forzante periodica|periodica]]
 [[Impedenza meccanica]]
 [[Soluzioni stazionarie per oscillatori forzati]] e andamenti caratteristici
 [[Funzione di risposta ]](+ esempi)
@@ -73,5 +73,8 @@ Si chiedono dimostrazioni. Molte domande riguarderanno il principio di causa-eff
 [[Onde/Note/Lezione3/lezione3]]
 ##### Lezione 4
 [[Onde/Note/Lezione4/Lezione4]]
+Risoluzione di [[Oscillatore armonico con forzante arbitraria]], [[Serie di Fourier]] e [[Serie di Fourier complessa]]
 ##### Lezione 5
 [[Onde/Note/Lezione5/Lezione5]]
+##### Lezione 6
+[[lezione6]]

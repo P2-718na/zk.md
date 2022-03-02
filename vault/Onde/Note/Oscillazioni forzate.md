@@ -23,14 +23,4 @@ di consegurnza, traslo il mio sistema di riferimento. pongo :
 e ^^ così trovo un'equazione nella variabile y che è uguale a quella dell' [[#Oscillatore armonico smorzato]].  Da qui:
 ![[Pasted image 20220222100117.png]]
 
-![[Pasted image 20220224102136.png]]
-Soluzione stazionaria: sempre in ritardo di fase rispetto alla forzante (slide)
-![[Pasted image 20220224103206.png]]
-![[Pasted image 20220224103216.png]]
-
-impedenza mecanica (slide)
-
-Introdurremo una serie di impredense meccaniche tutte le volte in cui avremo relazioni lineari che descrivono un rapporto causa effetto.
-
-![[Pasted image 20220222103649.png]]
-![[Pasted image 20220224103351.png]]
+Continua: [[Oscillazioni con forzante periodica]]

@@ -26,7 +26,7 @@ $$
 \omega_0 := \sqrt\frac{k}{m}
 $$
 Questa è detta **formula dell'oscillatore armonico**. Tutti gli oscillatori armonici la rispettano.
-`OSS` L'oscillatore armonico è di importanza fondamentale, visto che _qualsiasi moto periodico può essere ricondotto ad una combinazione di moti oscillatori armonici_ (vedi: [[Teorema di Fourier]]).
+`OSS` L'oscillatore armonico è di importanza fondamentale, visto che _qualsiasi moto periodico può essere ricondotto ad una combinazione di moti oscillatori armonici_ (vedi: [[Serie di Fourier]]).
 
 `OSS` #lezione
 Per il moto armonico, è importante che ci sia il segno $(+)$  tra i due termini dell'equazione $m\ddot{x}$ e $kx$. Proprio per questo motivo, la pulsazione è definita con _una radice_, in modo da essere sempre positiva.
