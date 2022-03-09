@@ -1,6 +1,6 @@
 Concettualmente, la norma di un vettore rappresenta la "lunghezza" di un vettore. Segue la definizione formale:
 #### `DEF` Norma
-Sia $X$ un $\mathbb{K}-$[[spazio vettoriale]]. La funzione: $\lVert \cdot \lVert : X \rightarrow \mathbb{R}$ è detta $:=$ `norma` $:\Leftrightarrow$
+Sia $X$ un $\mathbb{K}-$[[Spazio vettoriale]]. La funzione: $\lVert \cdot \lVert : X \rightarrow \mathbb{R}$ è detta $:=$ `norma` $:\Leftrightarrow$
     1.  $\underset{x \in X}{\forall}\ (\lVert x \lVert \geq 0) \land (\lVert x \lVert = 0 \iff x = 0)$
     2.  $\underset{x \in X}{\forall} \hspace{5px} \underset{\lambda \in \mathbb{R}}{\forall}\ \lVert \lambda x \lVert = |\lambda| \lVert x \lVert$
     3. $\underset{x, y \in X}{\forall}\ \lVert x + y \lVert \leq \lVert x \lVert + \lVert y \lVert$
@@ -12,7 +12,7 @@ Sia $X$ un $\mathbb{K}-$[[spazio vettoriale]]. La funzione: $\lVert \cdot \lVert
 
 ---
 #### `DEF` Spazio normato
-La coppia ordinata $(X, \lVert \cdot \lVert)$, con $X$ $\mathbb{K}-$[[spazio vettoriale]] e $\lVert \cdot \lVert$ [[#DEF Norma|norma]] è detta $:=$ `spazio normato`.
+La coppia ordinata $(X, \lVert \cdot \lVert)$, con $X$ $\mathbb{K}-$[[Spazio vettoriale]] e $\lVert \cdot \lVert$ [[#DEF Norma|norma]] è detta $:=$ `spazio normato`.
 
 
 #deMarco 61

@@ -1,1 +1,1 @@
-![[Pasted image 20220225142046.png]]
+![[../File/todo da lezione 4/Pasted image 20220225142046.png]]

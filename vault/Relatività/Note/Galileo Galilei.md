@@ -1,16 +1,16 @@
-![[Pasted image 20220221121257.png]]
-Galilei racconta tutte le sue robe _tramite dialogo_. 
-in questo libro (^^), Galileo getta le basi per la relatività Galileiana. 
+### Galileo Galilei
+![[../File/dialogo sui massimi sistemi.png]]
+Vissuto nel 1600, Galilei racconta tutte le sue robe _tramite dialogo_ ("Dialogo sui due Massimi Sistemi del mondo"). In questo libro, Galileo getta le basi per la relatività Galileiana. In particolare, Galilei _NON_ introduce formule, ma fa tutto a parole e con disegni. (vedi: libro del prof. De angelis, Traduce il libro di Galilei, aggiungendo anche formule).
 
-(+ Galilei, _NON_ introduce formule. Fa tutto a parole e con disegni. Vedi: libro del prof. De angelis => Traduce il libto di Galilei, aggiungendo anche formule).
+`OSS`: i due "massimi sistemi" sono il _Tolemaico_ (geocentrico) e _Copernicano_ (eliocentrico).
 
-Continua: [[Trattazione del Gran Naviglio]]
+Celebre è la [[Trattazione del Gran Naviglio]], in cui, con un esperimento mentale, Galileo introduce il concetto di [[Sistema di riferimento|Sistema di riferimento inerziale]].
 
-![[Pasted image 20220221122324.png]]
+### Principi di Galileo
+Galileo, nei suoi dialoghi, introduce i seguenti concetti:
+![[../File/galileo 1.png]]
+Che vengono poi formalizzati in:
+- [[Principio di Inerzia di Galilei]]
+-  [[Principio di relatività di Galilei]]: le leggi della fisica hanno la stessa forma in tutti i sistemi di riferimento inerziali. Questo implica che _non esiste un sistema di riferimento privilegiato_.
 
-![[principi di Galilei.png]]
-Al primo principio, in realtà, avevano lavorato altri pensatori. Per sempio, Giordamo Bruno. (Aveva immaginato un esperimento di una nave che risale un fiume, con sopra un albero. La nave passa sotto ad un ponte. Un uomo in cima all'albero lancia un sasso quando la nave passa sotto ad un ponte. Lancia un sasso anche la persona sul ponte. La conclusione alla fine non era molto "fisica", però l'esperimento era comunque interessante).ù
-
-Continua:: [[Principio di Inerzia di Galilei]]
-Continua:: [[Principio di relatività di Galilei]]
-Continua:: [[Osservazioni di Galileo dei satelliti di Giove]]
+`OSS` Al primo principio, in realtà, avevano lavorato altri pensatori. Per sempio, _Giordano Bruno_. (Aveva immaginato un esperimento di una nave che risale un fiume, con sopra un albero. La nave passa sotto ad un ponte. Un uomo in cima all'albero lancia un sasso quando la nave passa sotto ad un ponte. Lancia un sasso anche la persona sul ponte. La conclusione alla fine non era molto "fisica", però l'esperimento era comunque interessante).

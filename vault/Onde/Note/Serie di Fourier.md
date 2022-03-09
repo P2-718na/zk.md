@@ -1,12 +1,29 @@
 #### `THM` Teorema delle serie di Fourier
 ![[teorema di fourier.png]]
-Una funzione di questo tipo (_periodica_, _limitata_, _con un numero finito di discontinuità_), può semore essere approssimata con la serie di Fourier.
+dove i coefficienti $a_0$, $a_n$, $b_n$ sono dati da:
+$$
+\begin {aligned}
+    a_0 &= \frac 1 T \int_0^T f(t)\ dt \\
+    a_n &= \frac 2 T \int_0^T f(t)\cos(n\omega t)\ dt \\
+    b_n &= \frac 2 T \int_0^T f(t) \sin(n\omega t)\ dt
+\end {aligned}
+$$
+(l'integrale deve essere fatto su _un periodo_, con estremi a piacere).
 
+(Vedi [[../Snippets/fourier-calc.ipynb]])
+
+Di questo non vedremo una dimostrazione, ma solo una giustificazione del perchè valgono queste formule. Sarà necessario tenere a mente la definizione di [[Serie di funzioni convergente]] 
+
+---
+Servirà questa roba per la dimostrazione:
 (qui avremo un teorema (non dimostrato), per cui però è bene dare la definizione di serie di funzioni convergente:)
 ![[thm fourier 1.png]]
 l'integrale deve essere svolto su _un periodo_. (estremi a scelta, basta che siano su un periodo). Diciamo che la nostra funzione converge se quell'integrale può essere piccolo a piacere.
 
-Quindi come troviamo i coefficienti? Skippiamo al dimostrazione, vediamo solo che indicativamente questa roba funziona:
+---
+ 
+
+
 Per giustificare l'espressione dei coeff a e b, abbiamo bisogno di alcune prorpeità di _ortonormalità_ delle funzioni coseno e seno:
 (non sappiamo un cazzo, diamo tutto per buono, seeee)
 è possibile dimostrare che valgono queste tre identità:

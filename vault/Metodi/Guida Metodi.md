@@ -11,10 +11,22 @@
 L'esame è solo orale, ma nell'orale è presente anche una parte in cui ti chiede degli esercizi. Gli esercizi sono tutti negli appunti, all'orale ti chiede uno degli esercizi negli appunti + altri temi d'esame. "Per avere 30/30L, bisogna sapere tutto. Per voti più bassi, si possono skippare un po' di dimostrazioni. La cosa più importante è sapere fare i calcoli."
 
 ### Argomenti trattati
-##### Lezione 1
-- [[Metodi/Note/Numeri complessi|Numeri complessi]]: definizione, alcune prorpietà, esercizi. [[Formula di De Moivre]].
-- Esercizi 1, 2, 3, 4 (vedi appunti).
-##### Lezione 2
-- [[Quaternioni]], accenno a [[Ottanioni]] (algebra non associativa).
-- [[Funzioni a variabile complessa]], limiti complessi differenziabilità e [[olomorfismi]]
+#### Analisi complessa
+- [[Metodi/Note/Numeri complessi|Numeri complessi]]: definizione, alcune proprietà, esercizi. [[Formula di De Moivre]].
+-  [[Quaternioni]], accenno a [[Ottanioni]] (algebra non associativa).
+##### Funzioni a variabile complessa
+- [[Funzioni a variabile complessa]]: limiti complessi, differenziabilità
+- [[Note/Formule di Cauchy-Riemann]]
+- [[Note/Funzione olomorfa|funzioni olomorfe]]
+- Definizione di curva e cammino in campo complesso
+- Integrali di contorno
+##### Teoremi sulle funzioni a variabile complessa
+- [[Metodi/Note/Teorema di Cauchy per funzioni complesse]]
+- [[Metodi/Note/Rappresentazione di Cauchy per funzioni complesse]] e concetto di rappresentazioni integrali
+- [[Metodi/Note/Teorema di Morera]]
+- [[Metodi/Note/Serie di Taylor per funzioni complesse]]
+- [[Metodi/Note/Serie di Laurent]]
+- [[Metodi/Note/Teorema di Weierstrass per funzioni complesse]]
+##### Residui
 [[Metodi/Lezione5/Lezione5]]
+[[Metodi/Lezione6/Lezione6]]

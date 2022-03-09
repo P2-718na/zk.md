@@ -8,7 +8,7 @@ Anche qui, vedi calendari su [virtuale](https://virtuale.unibo.it/course/view.ph
 `oss` Seminari prob. inutili (?), però ad occhio e croce saranno la parte più intressante del corso. => segui.
 #### +Extra
 La prof. organizza un ciclo di seminari all'accademia delle scienze a bologna. 3 pomeriggi, dopo pasqua, ci saranno lezioni su temi di attualità. Il nome del progetto è _Sulle spalle dei giganti_. Ovviamente è fuori dal corso, però sembra figo.
-![[seminari.png]]
+![[File/seminari.png]]
 
 ### Esame
 scritto + orale, _orale facoltativo se si supera una certa soglia allo scritto_. NO parziali.
@@ -34,13 +34,36 @@ Studio: via Irnerio (primo piano).
 
 ### Argomenti trattati:
 #### Introduzione storica
+##### Lezione 1
 [[Introduzione storica]]
-[[Galileo Galilei]]
-[[Trasformazione Galileiana]]
+[[Galileo Galilei]] e [[Note/Albert Einstein|Albert Einstein]]: primi lavori.
+[[Note/Principio di Inerzia di Galilei]] e [[Note/Principio di relatività di Galilei]]
+[[Note/Trasformazioni Galileiane del moto|Trasformazioni Galileiane]]
 [[Trattazione del Gran Naviglio]]
-[[Sistema di riferimento proprio]]
+##### Lezione 2
+[[Note/Sistema di riferimento]]
 [[Velocità della luce]]
-
-[[Relatività/Lezione2/lezione2]]
-[[Relatività/Lezione3/lezione3]]
-[[Relatività/Lezione4/lezione4]]
+[[Relatività/Note/Aberrazione stellare]]
+[[Note/Accenno a SI]]
+[[Note/Etere]]
+##### Lezione 3
+[[Note/Esperimento di Michelson e Morley]]
+[[../Note/Massa dell'elettrone]]
+[[../Note/Relatività del tempo]]
+##### Lezione 4
+[[../Note/Sincronizzazione degli orologi]]
+[[../Note/Simultaneità degli eventi]]
+[[Trasformazioni di Lorentz]]
+[[../../Elettromagnetismo/Equazioni di Maxwell]]
+[[../Note/Trasformazioni di Lorentz]]
+[[../Note/Accelerazione propria]]
+##### Lezione 5
+Fine discorso su accelerazione propria,  [[Note/Calcolo accelerazione propria per moti circolari]]
+[[Note/Trasformazioni Lorentziane del modulo della velocità]]
+osservazione su fattori di Lorentz multipli: [[../Note/Trasformazioni di Lorentz]]
+[[Note/c come limite superiore alla velocità]], non-validità delle trasformazioni Galileiane.
+[[Note/Paradosso del treno e del tunnel]]
+##### Lezione 6
+[[Raggi cosmici]]
+[[Paradosso del muone]]
+[[Il paradosso del razzo di Bell]]

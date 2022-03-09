@@ -1,6 +1,6 @@
 ### Corso
 Mauro Villa
-[Lezioni 'Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDQyMmMxMTItN2RiNC00ZTBjLTkxMjctZTg2OTk1MTk2MGE3%40thread.v2/0?context=%7b%22Tid%22%3a%22e99647dc-1b08-454a-bf8c-699181b389ab%22%2c%22Oid%22%3a%2255cf41f2-666e-4a8b-92e0-630878079bcc%22%7d) [Virtuale](https://virtuale.unibo.it/course/view.php?id=29417) [Pagina del corso](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434319)
+[Lezioni Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDQyMmMxMTItN2RiNC00ZTBjLTkxMjctZTg2OTk1MTk2MGE3%40thread.v2/0?context=%7b%22Tid%22%3a%22e99647dc-1b08-454a-bf8c-699181b389ab%22%2c%22Oid%22%3a%2255cf41f2-666e-4a8b-92e0-630878079bcc%22%7d) [Virtuale](https://virtuale.unibo.it/course/view.php?id=29417) [Pagina del corso](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434319)
 
 #### Obiettivi del corso
 - __Capire bene cosa sono le onde__ <= obiettivo principale.
@@ -55,26 +55,41 @@ Si chiedono dimostrazioni. Molte domande riguarderanno il principio di causa-eff
 #### Temi trattati
 ##### Lezione 1
 [[Definizione di onda]] #cleanme
-[[Forza di Hooke]]
-[[Oscillatore armonico]], [[Conservazione dell'energia nei moti armonici]]
-[[Moti oscillatori in sistemi non meccanici]]
-[[Regime delle piccole oscillazioni]]
-[[Moto armonico e complessi]]
+[[Forza di Hooke]] #cleanme
+[[Oscillatore armonico]], [[Note/Energia dell'oscillatore armonico]]
+[[Moti oscillatori in sistemi non meccanici]] #cleanme
+[[Regime delle piccole oscillazioni]] #cleanme
+[[Moto armonico e complessi]] #cleanme
 [[Vettori rotanti (fasori)]] #todo
 ##### Lezione 2
-[[Oscillazioni smorzate]]
-[[Oscillazioni forzate]], con forzante costante e [[Oscillazioni con forzante periodica|periodica]]
-[[Impedenza meccanica]]
-[[Soluzioni stazionarie per oscillatori forzati]] e andamenti caratteristici
+[[Oscillazioni smorzate]] #cleanme
+[[Oscillazioni forzate]], con forzante costante e [[Oscillazioni con forzante periodica|periodica]] #cleanme
+[[Impedenza meccanica]] #todo
 [[Funzione di risposta ]](+ esempi)
 [[Fattore di qualità]] (+ esempi)
-[[Onde/Note/Lezione2/lezione2]]
 ##### Lezione 3
-[[Onde/Note/Lezione3/lezione3]]
+LEzione raccolta in [[Note/Oscillazioni con forzante periodica]]
 ##### Lezione 4
-[[Onde/Note/Lezione4/Lezione4]]
-Risoluzione di [[Oscillatore armonico con forzante arbitraria]], [[Serie di Fourier]] e [[Serie di Fourier complessa]]
+[[Note/Risoluzione EDO per esercizi di onde]]
+Concetto di [[Operatori lineari]] e [[Principio di Sovrapposizione]]
+[[Serie di Fourier]] e [[Serie di Fourier complessa]]
+Risoluzione di [[Oscillatore armonico con forzante arbitraria]], 
 ##### Lezione 5
-[[Onde/Note/Lezione5/Lezione5]]
+[[Trasformata di Fourier]] e proprietà
+[[Note/Onde trasversali su corda elastica|Onde trasversali su corda elastica]], [[Note/Equazione di D'Alembert|Equazione di D'Alembert]]
 ##### Lezione 6
-[[lezione6]]
+proprietà e soluzioni dell'[[Note/Equazione di D'Alembert]]
+Esempi di [[Note/Onde trasversali su corda elastica#^1a9332]]
+##### Lezione7
+[[Onde armoniche]]
+[[Proprietà delle onde armoniche]]
+[[Relazione di dispersione]]
+[[Generalizzazione a partire dalle onde armoniche]]
+##### Lezione 8
+[[Note/Energia nelle onde armoniche]] (da sistemare, qui cita anche il concetto di impedenza e lo generalizza)
+[[Note/Intensità di un'onda armonica]]
+##### Lezione 9
+[[Riflessione e trasmissione delle onde armoniche]]
+[[Raccordo delle impedenze]]
+
+[[Esercizi]]

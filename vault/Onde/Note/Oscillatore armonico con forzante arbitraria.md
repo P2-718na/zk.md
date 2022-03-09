@@ -1,7 +1,5 @@
 
-### Serie di fourier, introduzione
-_"Il ferrarino della matematica"_
-
+### _Il ferrarino della matematica_
 La necessità di sviluppare in _serie di Fourier_ deriva (almeno per noi) dal problema delle[[Oscillazioni forzate]]:
 $$
 m \ddot x + \beta \dot x + kx = f(t) \hspace 10px \iff \hspace 10 px \hat L(x) = f(t)
@@ -12,59 +10,46 @@ Noi sappiamo risolvere questa equazione ora per forzanti semplici (vedi: [[Oscil
 1) Consideriamo una $f(t)$ _periodica_ di periodo $T$. Vogliamo cercare un modo di risolvere una _qualsiasi_ equazione che contiene una forzante di questo tipo.
 2) Una volta che abbiamo risolto il punto (1), possiamo estendere lo stesso principio risolutivo a tutte le funzioni (abbastanza regolari), facendo tendere il periodo $T$ all'infinito.
 
+##### (1)
 Ora, per risolvere il punto (1), abbiamo anche qui due passaggi:
-    1.1) Prima di tutto, vediamo come trattare una $f(t)$ formata da _somme arbitrarie di seni e coseni_.
-    1.2) Applichiamo il [[Serie di Fourier|teorema di Fourier]].
-    
+    1.1) Prima di tutto, vediamo come [[Moto con forzante data da somme di coseni|trattare una funzione formata da somme arbitrarie di seni e coseni]].
+    1.2) Applichiamo il [[Serie di Fourier|Teorema di Fourier]].
+
 In questo modo sappiamo risolvere il problema dell'oscillatore armonico forzato per qualunque tipo di forzante _periodica_. Quello che dobbiamo fare è semplicemente trovare i coefficienti $a_0$, $a_n$ e $b_n$ della serie in modo da ottenenre lo sviluppo corretto per la nostra funzione.
 
-Riguardo al punto (1.1):
-#cleanme
-### Moto con forzante data da somme arbitrarie di coseni
-Partiamo prendendo una funzione periodica con parametri liberi (questi parametri andranno poi a trasformarsi nei coefficienti della serie di fourier):
-![[forzante sen cos 1.png]]
-- Ogni singolo termine ha una sua ampiezza $F_n$.
-- $\omega$ è la pulsazione associata (costante per tutti i termini).
-- $n\omega$ vuol dire che vado a prendere come pulsazioni multipli interi di $\omega$.
-- Aggiungo anche la possibilità di avere uno sfasamento delle diverse forze per i diversi $n$.
+##### (2)
+Per spiegare questo caso, parto con due osservazioni:
 
-Osservo che questa funzione $f(t)$ è una somma di funzioni di periodo $T$, $\frac 1 2 T$, $\frac 1 3 t$, $\ldots$ 
-E quindi, _complessivamente_, la posso vedere come funzione periodica di periodo $T$.
+`OSS` Nel caso in cui abbiamo 
+$$
+m \ddot x + \beta \dot x + kx = f(t)
+$$
+dove f è una funzione arbitraria, non posso semplicemente sostituire $e^{\lambda t}$ in $x$ e risolvere con gli stessi metodi usati per le [[oscillazioni forzate]] e [[oscillazioni con forzante periodica]].
 
-Ora, studiamo come risolvere il problema dove questa funzione è la _forzante di un oscillatore armonico_:
-![[forzante sen cos 2.png]]
+`OSS` Tutti i problemi che andremo a studiare, generalmente, avranno un dominio (tempo di osservazione, insomma) _finito_. Possiamo quindi immaginare che il fenomeno in questione sia periodico con periodo _maggiore al mio tempo di osservazione_. 
+Quello che faccio, allora, è considerare una funzione periodica di _periodo $T$ tendente a infinito_.
 
-##### Divide et impera
-`OSS` Ho un problema complesso che non so risolvere. lo separo in tanti problemi più piccoli che (magari) so risolvere più facilmente. Dopo metto tutto assieme e sbam sesso duro.$_{_\text{questo non lo tolgo perchè mi fa ridere}}$
+Con queste premesse, si può dimostrare che il [[Serie di Fourier|Teorema di Fourier]] ci è utile anche qua. I passaggi per risolvere questo tipo di problema sono:
+    2.1) Applichiamo l'operatore [[Trasformata di Fourier]] $\tilde{\mathcal F}$ a entrambe i membri dell'equazione.
+    2.2) In questo modo, a sinistra potremo raccogliere un $\tilde x$ (questo è reso possibile dal fatto che con la trasformata, derivazioni si trasformano in moltiplicazioni).
+    2.3) Applichiamo l'[[Trasformata di Fourier|antitrasformata di Fourier]] a $\tilde x$ e abbiamo trovato la $x(t)$ cercata.
 
-Per le proprietà degli [[Operatori lineari]], possiamo risolvere questa [[EDO]]  cercando
-![[forzante sen cos 3.png]]
-In questo modo, per la proprietà (3) degli operatori lineari, la soluzione lineare sarà
-![[forzante sen cos 4.png]]
-
-Ora vado a vedere come risolvere ogni termine della sommatoria:
-##### Ricerca delle soluzioni
-La soluzione costante è facile [[Oscillazioni forzate]].
-La soluzione oscillante è uguale a come abbiamo visto nelle [[Oscillazioni con forzante periodica]].
-
-La soluzione non è particolarmente diversa da quello già visto. => (omettendo i conti), si ha:
-![[forzante sen cos 5.png]]
-. Se vado a fare un confronto dalla roba vista settimana scorsa, la differenz aè solo la fase e nw nelle formule. Tutto il resto è uguale.
-Quando vado a prendere la soluzione, la soluzione reale è quindi:
-![[forzante sen cos 6.png]]
-(???) $x_n(t) = A_ncos(n\omega t + \phi_n - \delta_n)$
-
-##### Rimozione delle fasi
-Abbiamo visto che una forzante di questo tipo la risolviamo. Ora, vediamo come ricondurci alla stessa forma della serie di fourier, partendo da qua:
-![[forzante sen cos 7.png]]
-Si può eliminare le fasi, ottenendo:
-![[forzante sen cos 8.png]]
-Quando si preferisce usare seno e coseno piuttosto che una fase, si rinominano i vari coefficienti.
-![[forzante sen cos 9.png]]
-
-QUINDI, anche il problea iniziale divent riscritto come un oggetto fatto così:
-![[forzante sen cos 10.png]]
-(dovee sono andato a togliere le fasi dalla roba).
-Se noi sappiamo risolvere questo prob, sappiamo risolvere anche questo:
-![[forzante sen cos 11.png]]
-^^ Insomma, quello che era il probl iniziale, lo sono andato a riscrivere tramite somme di coseni e seni.
+Nel dettaglio, il punto (2.2) si concretizza in:
+- Parto da qui: $m \ddot x + \beta \dot x + kx = f(t)$
+- Risolvo prima il primo membro, applicando l'operatore $\tilde{\mathcal F}$:
+    - $\tilde{\mathcal F}(m \ddot x + \beta \dot x + kx)$
+    - Applico le proprietà degli operatori lineari a $\tilde{\mathcal F}$:
+    - $\tilde{\mathcal F}(m \ddot x + \beta \dot x + kx) = m\tilde{\mathcal F}(\ddot x) + \beta \tilde{\mathcal F}(\dot x) + k \tilde{\mathcal F}(x) = (\cdots)$
+    - dove ho usato la linearità di $\hat{\mathcal{F}}$. Continuo ad espandere, usando le [[Proprietà della trasformata di Fourier]]:
+    - $(\cdots) = -m\omega^2 \tilde x + i \omega \beta \tilde x + k\tilde x = (\cdots)$
+    - raccolgo $\tilde x$:
+    - $(\cdots) = (-m \omega^2 + i \omega \beta + k) \tilde x$
+- RIsolvo il secondo membro
+Per il secondo membro, la trasformata la chiamo $\tilde{\mathcal{F}}$. Quindi, ottengo questo:
+![[../File/arb 1.png]]
+Mettendo assieme i due membri, ho:
+![[../File/arb 2.png]]
+Da questa equazione, posso risolvere tranquillamente per $\tilde x$:
+![[../File/arb 3.png]]
+In questo modo, __abbiamo trovato la trasformata di Fourier della soluzione__. E sono contento, perchè dopo posso applicare l'_antitrasformata_ e trovare finalmente la mia soluzione particolare:
+![[../File/arb 4.png]]
