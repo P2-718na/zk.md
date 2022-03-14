@@ -19,6 +19,8 @@ $$
 
 `NOTA` Se ci troviamo in $\mathbb{R}^n$, le [[Derivazione secondo un vettore#DEF Derivata rispetto ad un vettore|derivate direzionali]] rispetto ai vettori della [[base canonica]] si indicano semplicemente con $\partial_kf(p)$, con $1 \leq\ k\ \leq n$.
 
+`APPl` [Calcolare derivate direzionali](https://www.youmath.it/lezioni/analisi-due/varie/815-derivate-direzionali.html) #todo questa roba sarebbe da spostare (?)
+
 ##### `PROP` Derivata parziale
 La `derivata parziale di f rispetto alla k-esima variabile` è la [[derivata]] in $p_k$ della funzione, mantenendo costanti tutte le altre variabili.
 Questo vale in $\mathbb{R}^n$, fissata la [[base canonica]]. ^099555

@@ -1,1 +1,0 @@
-NO appunti per questa parte perchè da casa non si capiva una sega

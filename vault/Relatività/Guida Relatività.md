@@ -67,3 +67,8 @@ osservazione su fattori di Lorentz multipli: [[../Note/Trasformazioni di Lorentz
 [[Raggi cosmici]]
 [[Paradosso del muone]]
 [[Il paradosso del razzo di Bell]]
+##### Lezione 7
+[[../Note/Effetto Doppler relativistico]]
+[[Note/Massa, impulso ed energia]]
+[[Note/Massa relativistica]] #todo sposta impuslo da qua
+[[Note/Energia relativistica]]

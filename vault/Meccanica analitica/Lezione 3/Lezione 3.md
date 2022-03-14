@@ -1,4 +1,4 @@
-Legge di conservazione dell'energia meccanica della fisica. Gli integrali primi, in _molti_ (non tutti) casi sono connessi alla conservazione dell'energia meccanica. L'ìintegrale primo è juna funzione dello spazio delle fasi (noi ragioniamo sempre nello spazio delle fasi). DEve essere una funzione regolare definita nello spazio delle fasi. Non deve dipendere dal tempo e deve introdurre qujndi quello che è un vincolo geometrico. => Ogni orbita apparterrà ad una superficie di livello dell'integrale primo, e un orbita non può cambiare superficie. La superficie su cui si trovw l'integrale primo ci da anche informazion sull'orbita . In questo modo, possiamo ottenere informazione sui sistemi dinamici senza risolvere esplicitamente il sistema.
+
 
 Idea di base: abbiamo un sistema generico dettato da queste due e differenziali:
 ![[Pasted image 20220224142759.png]]
