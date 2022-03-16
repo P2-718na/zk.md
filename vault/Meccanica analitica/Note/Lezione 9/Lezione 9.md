@@ -1,1 +1,0 @@
-Analizziamo un rotatore iperbolico:

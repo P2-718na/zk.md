@@ -72,3 +72,5 @@ osservazione su fattori di Lorentz multipli: [[../Note/Trasformazioni di Lorentz
 [[Note/Massa, impulso ed energia]]
 [[Note/Massa relativistica]] #todo sposta impuslo da qua
 [[Note/Energia relativistica]]
+##### Lezione 8
+[[LEzione 8/Lezione 8]]

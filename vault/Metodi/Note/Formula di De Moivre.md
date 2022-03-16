@@ -6,7 +6,7 @@ e^{in\theta} =
 \left(e^{i\theta}\right)^n =
 [cos(\theta) + i\ sen(\theta)]^n
 $$
-`DIM` Volendo, si può dimostrare anche per induzione, usando le [[Formule di addizione e sottrazione]].
+`DIM` Volendo, si può dimostrare anche per induzione, usando le [[../../Analisi 1/Formule trigonometriche/Formule di addizione e sottrazione]].
 
 `ESEMPIO`:
 Vogliamo esprimere $cos(3\theta)$ come polinomio di coseni. Partiamo da

@@ -73,7 +73,7 @@ Le soluzioni, assieme, andranno ad essere queste:
 
 Per finire, vediamo qualche esempio:
 ![[../File/todo da lezione 4/Pasted image 20220228155541.png]]
-La domanda che ci facciamo è: riusciamno a rapparesentare cos^2 di wt come serie di fourier? Sì, usando le [[Formule di bisezione]]:
+La domanda che ci facciamo è: riusciamno a rapparesentare cos^2 di wt come serie di fourier? Sì, usando le [[../../Analisi 1/Formule trigonometriche/Formule di bisezione]]:
 ![[../File/todo da lezione 4/Pasted image 20220228155649.png]]
 Esempio2
 ![[../File/todo da lezione 4/Pasted image 20220228155724.png]]

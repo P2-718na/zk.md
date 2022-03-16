@@ -1,7 +1,7 @@
 ![[File/todo da lezione 4/Pasted image 20220228160146.png]]
 [[Note/Serie di Fourier]]
-[[../Analisi 1/Note/Formule di addizione e sottrazione]]
-Serviranno le [[../Analisi 1/Note/Formule di Werner]]
+[[../Analisi 1/Formule trigonometriche/Formule di addizione e sottrazione]]
+Serviranno le [[../Analisi 1/Formule trigonometriche/Formule di Werner]]
 [[../Metodi/Note/Formula di De Moivre]]
 [[Note/Serie di Fourier complessa]]
 

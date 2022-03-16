@@ -91,5 +91,10 @@ Esempi di [[Note/Onde trasversali su corda elastica#^1a9332]]
 ##### Lezione 9
 [[Riflessione e trasmissione delle onde armoniche]]
 [[Raccordo delle impedenze]]
+##### Lezione 10
+[[Lezione 10/Lezione 10]]
+##### Lezione 11
+[[Lezione 11/Lezione 11]]
+
 
 [[Esercizi]]
