@@ -9,7 +9,7 @@
 - [[../Analisi 2/Equazioni differenziali/Sistemi di EDO lineari omogenee di ordine 1|Sistemi di equazioni differenziali]] (da integrare con [[Lezione 2/lezione2]])
 - [[Note/Analisi qualitativa dello spettro di A]]
 - [[Note/Punti fissi]]
-- [[Note/Flusso di fase associato a un sistema lineare]]
+- [[Note/FDF associato a un sistema lineare omogeneo]]
 - [[Note/Conservazione dei volumi]]
 ---
 ### Equazioni di Newton
@@ -17,12 +17,15 @@
 - [[Note/Calcolare flusso di fase associato a un campo vettoriale]].
 - [[Note/Integrale primo del moto]] e [[Note/Integrale primo per il campo di Newton]].
 - [[Note/Integrale primo come curva di livello]], definizione di [[Sistemi integrabili]].
-- Esempio/applicazione dell'integrale primo: ricavare [[Flusso di fase dell'oscillatore armonico]].
-- [[Note/Sistemi forzati]]
-- [[Controllo]]
+- Esempio/applicazione dell'integrale primo: ricavare [[Note/FDF dell'oscillatore armonico]].
+- [[Note/FDF associato a un sistema lineare non omogeneo]]
+- 
+- [[Note/Oscillatore iperbolico]]  // queste due cose le lascio un attimo indietro.
+- [[Controllo]]                                    // c'è da capire come mai non funziona l'integratore numerico nel problema del controllo.
 ---
 ### Studio di un sistema in una dimensione
+- [[Studio dell'oscillatore armonico]] Questa parte è sugli appunti pag 31/32. Qui bazzani prende un oscillatore armonico e studia completamente il sistema. Prima di farlo però, è necessario aver introdotto le coordinate azione-angolo. Per ora lo salto
+- [[Note/Studio di un sistema generico]]
 
 [[Meccanica analitica/Lezione 3/Lezione 3]]]]
-
 [[Note/Lezione 9/Lezione 9]]

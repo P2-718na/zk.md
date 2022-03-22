@@ -18,3 +18,7 @@ Esercizi:
 
 ### Esercizi con sviluppo di Fourier
 Quando devo sviluppare in serie di Fourier, essenzialmente posso scegliere cosa usare (se trasformata reale o complessa). In alcuni casi particolari (per esempio, quando ho una funzione armonica del tipo cos^3(x), posso usare formule trigonometriche per ricondurmi ad una forma che è _uguale_ allo sviluppo in serie, _senza passare attraverso l'integrale_ (vedi es. 09 rm, [[../Metodi/Note/Formula di De Moivre]], [[../Metodi/Note/Formula di Eulero]] [[../Metodi/Note/Funzioni a variabile complessa#DEF Funzioni trigonometriche in mathbb C|coseno/seno complessi]]))
+
+Esercizio fast:
+![[Pasted image 20220321144857.png]]
+^^ Soluzione si trova nelle slide [[Note/Effetto Doppler]].

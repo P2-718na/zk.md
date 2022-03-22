@@ -42,7 +42,7 @@ Bene, onde del tipo
 Funzioni solo del seno (oppure solo del coseno)
 vengono chiamate onde armoniche.
 Quelle con il (-) sono progressive, quelle col (+) sono regressive.
-Anche questa roba può essere pensata come la parte reale di un [[Vettori rotanti (fasori)|faosre]]. Anche il fasore viene chiamato _Onda armonica_ (oppure, onde monocromatiche)
+Anche questa roba può essere pensata come la parte reale di un [[Vettori rotanti (fasori)|fasore]]. Anche il fasore viene chiamato _Onda armonica_ (oppure, onde monocromatiche)
 ![[../File/todo da lezione 7/Pasted image 20220307144737.png]]
 ![[../File/todo da lezione 7/Pasted image 20220307144754.png]]
 

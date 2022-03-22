@@ -68,7 +68,7 @@ Si chiedono dimostrazioni. Molte domande riguarderanno il principio di causa-eff
 [[Funzione di risposta ]](+ esempi)
 [[Fattore di qualità]] (+ esempi)
 ##### Lezione 3
-LEzione raccolta in [[Note/Oscillazioni con forzante periodica]]
+Lezione raccolta in [[Note/Oscillazioni con forzante periodica]]
 ##### Lezione 4
 [[Note/Risoluzione EDO per esercizi di onde]]
 Concetto di [[Operatori lineari]] e [[Principio di Sovrapposizione]]
@@ -76,7 +76,9 @@ Concetto di [[Operatori lineari]] e [[Principio di Sovrapposizione]]
 Risoluzione di [[Oscillatore armonico con forzante arbitraria]], 
 ##### Lezione 5
 [[Trasformata di Fourier]] e proprietà
-[[Note/Onde trasversali su corda elastica|Onde trasversali su corda elastica]], [[Note/Equazione di D'Alembert|Equazione di D'Alembert]]
+[[Note/Onde trasversali su corda elastica|Onde trasversali su corda elastica]]
+[[Note/Equazione di D'Alembert|Equazione di D'Alembert]]
+Esercizio molto interessante: [[Note/Equazione di Hopf]]. Mostra come certe onde che di norma non rispettano D'Alembert, nel regime delle piccole oscillazioni cambiano comportamento.
 ##### Lezione 6
 proprietà e soluzioni dell'[[Note/Equazione di D'Alembert]]
 Esempi di [[Note/Onde trasversali su corda elastica#^1a9332]]
@@ -94,7 +96,17 @@ Esempi di [[Note/Onde trasversali su corda elastica#^1a9332]]
 ##### Lezione 10
 [[Lezione 10/Lezione 10]]
 ##### Lezione 11
-[[Lezione 11/Lezione 11]]
-
+[[Note/Analisi energetica delle onde sonore]]
+[[Note/Impedenza acustica specifica]]
+[[Note/Orecchio umano]]
+[[Note/Livello di intensità sonora]]
+[[Note/Interferenza]]
+##### Lezione 12
+[[Note/Battimenti]]
+##### Lezione 13
+[[../Note/Effetto Doppler]]
+[[Lezione 13]]
+##### Lezione 14
+[[Lezione 14/Lezione 14]]
 
 [[Esercizi]]

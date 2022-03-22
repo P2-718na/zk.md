@@ -1,0 +1,2 @@
+##### `DEF` Forzante
+Una forzante è una forza _esterna_ ad un [[Sistema dinamico|sistema]], che immette potenza nel sistema, modificandone lo stato. Una forzante è _indipendente_ dallo stato $x \in \Sigma$ del sistema (punto nello spazio delle fasi).

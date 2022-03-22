@@ -1,4 +1,4 @@
-##### `DEF` Flusso di fase
+##### `DEF` Flusso di fase (FDF)
 Sia $x_0,\ x \in \Sigma$ [[spazio delle fasi]], $t \in \mathbb{R}^+$ e sia:
 $$
 \begin{array}{c}

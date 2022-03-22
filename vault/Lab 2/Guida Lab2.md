@@ -58,3 +58,5 @@ Struttura esame, continua: [[Note/Esempi di fit]]
 ##### Lezione 4
 Vedi dalle slide.
 Operazioni per analisi fasoriale.
+##### Lezione 5
+[[Cosa fare in lab]]
