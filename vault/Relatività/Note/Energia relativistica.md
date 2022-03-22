@@ -30,3 +30,12 @@ Ora, è chiaro che a questo termine erngia totale ci andrebbe anche enrgua poten
 ![[../File/todo da lezione 7/Pasted image 20220314125856.png]]
 Quindi si ottiene la formula swag di Einstein dove m è la massa relativistica (= m0gamma).
 ![[../File/grafico energia relativistica.png]]
+
+===
+### da recap lezione 8
+===
+Definizione di massa relativistica... (recap scorsa lezione).
+A meno del fattore c^2, la massa relativistica è uguale all'energia del corpo![[../File/todo da lezione 8/Pasted image 20220315111834.png]]
+C'è da ricordare (importante) che quello che si conserva è l'_energia_
+Altra cosa importante: la massa a riposo è invariante per trasformazioni di Lorentz. La massa _relativistica_, NO.
+![[../File/todo da lezione 8/Pasted image 20220315112032.png]]

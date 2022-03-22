@@ -94,7 +94,9 @@ Esempi di [[Note/Onde trasversali su corda elastica#^1a9332]]
 [[Riflessione e trasmissione delle onde armoniche]]
 [[Raccordo delle impedenze]]
 ##### Lezione 10
-[[Lezione 10/Lezione 10]]
+[[Note/Onde stazionarie]]
+[[Note/Onde sonore]]
+[[Note/Strumenti a corda]]
 ##### Lezione 11
 [[Note/Analisi energetica delle onde sonore]]
 [[Note/Impedenza acustica specifica]]
@@ -104,9 +106,17 @@ Esempi di [[Note/Onde trasversali su corda elastica#^1a9332]]
 ##### Lezione 12
 [[Note/Battimenti]]
 ##### Lezione 13
-[[../Note/Effetto Doppler]]
-[[Lezione 13]]
+[[Note/Effetto Doppler]]
+[[Note/Equazione di D'Alembert nello spazio tridimensionale]]
+[[Note/Onde armoniche piane]]
 ##### Lezione 14
-[[Lezione 14/Lezione 14]]
+[[Note/Equazione di D'Alembert in coordinate polari sferiche]]
+[[Note/Onde armoniche in coordinate sferiche]]
+
+---
+### Fine argomenti parziale 1
+---
+
+
 
 [[Esercizi]]

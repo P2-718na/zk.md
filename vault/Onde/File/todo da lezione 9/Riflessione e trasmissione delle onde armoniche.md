@@ -78,3 +78,39 @@ Considerazioni fisiche: l'intensità è una potenza media. Questo risultato non 
 Da tutte queste osservazioni, si definiscono:
 ![[Pasted image 20220309095701.png]]
 Dicono rispettivamente quanta della mia potenza riesco a trasmettere e quanta riesco a riflettere.
+
+ Da lezione 10
+ ===
+Mega Riassunto volta scorsa:
+![[../todo da lezione 10/Pasted image 20220314140858.png]]
+
+Per la lezione di oggi ci interessa particolarmente il fatto che se ho impesenza alta nel secondo mezz. l'ampiezza trasmessa va a zero:
+![[../todo da lezione 10/Pasted image 20220314141433.png]]
+
+---
+Concludiamo il discorso fatto la lezione scorsa
+![[../todo da lezione 10/Pasted image 20220314141541.png]]
+Se ci troviamo con un onda rappresentata tramite serie di FOurier, abbiamo:
+![[../todo da lezione 10/Pasted image 20220314141559.png]]
+Poichè il fattore con le Z (in rosso) non dipende da nessun tipo di onda in particolare, lo porto guori dalla sommatoria e scopro che:
+- [ ] ![[../todo da lezione 10/Pasted image 20220314141651.png]]
+Di fatto la mia onda riflessa non è altro che un onda uguale a prima ma di cui cambia solo l'ampiezza:
+![[../todo da lezione 10/Pasted image 20220314141717.png]]
+=> Un onda riflessa, _non cambia la forma_, ma semplicemnte _me la trovo di ampiezza scalata_.
+Questo è vero anche se io rappresento l'onda in una forma diversa da quella della serie di fourier:
+![[../todo da lezione 10/Pasted image 20220314141756.png]]
+Vediamo come l'onda riflessa ha il coeff di scala dato dalle impedenze.
+(Mettendo dentro i dati, osserviamo che questo coeff varia tra +1 e -1).
+
+Per le onde trasmesse è un attinmo più difficile, visto che cambiano le lunghezze d'onda (e quindi le velpocità) delle onde trasmesse. Prendiamo una generica onda incidente:
+![[../todo da lezione 10/Pasted image 20220314141923.png]]
+DOve i kn sono multipli di un numero d'onda. Quando vado nella regione 2, ognuna di queste onde cambia:
+![[../todo da lezione 10/Pasted image 20220314141947.png]]
+Il motivo è che qui non abbiamo più kn ma abbiamo k'n.
+L'ampiezza di questa onda trasmessa segue quindi questa regola qua.
+Ora, questo k'n è quello che collega la velocità con v2 (in rosso) (??)
+=> La forma non è esatamente la stessa, abbiamo qualcosa che cambia.
+
+Possiamo far vedere che questa formula qua sopra vale  in forma serie di fourier. Se lavoro con una generica onda progressiva, avrò:
+![[../todo da lezione 10/Pasted image 20220314142115.png]]
+La forma non cambia, ma appare scalaat sia in ampiezza che in larghezza.

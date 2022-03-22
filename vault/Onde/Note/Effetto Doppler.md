@@ -1,9 +1,9 @@
 ### Effetto Doppler
 Scoperto nel 1845 da _Christian Doppler_, essenzialmente quando sono stati inventati i treni. L'effetto doppler comnsiste in un cambiamentpo della frequenza pervecpita da un osservatore quando c'è un moto relativo tra sorgente delle onde e osservatore stesso.
 
-![[Pasted image 20220321141925.png]]
+![[../File/todo da lezione 13/Pasted image 20220321141925.png]]
 ![[../File/effetto doppler.gif]]
-![[Pasted image 20220321142228.png]]
+![[../File/todo da lezione 13/Pasted image 20220321142228.png]]
 ^^ Abbiamo 4 casi da analizzare.
 Ricordiamo che stiamo lavorando con onde sonore. Queste onde (come tutte le onde meccaniche) hanno un sdr privilegiato, ovvero quello dove il mezzo è in quiete. Qui, quando parliamo di "velocità", lo facciamo rispetto all'osservatore.
 (T_p indica un periodo del segnale).

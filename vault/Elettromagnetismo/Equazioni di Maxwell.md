@@ -1,7 +1,8 @@
+#cleanme
 ### Equazioni di Maxwell
 le EDO omogenee di Maxwell si scrivono:
 ![[../Relatività/File/todo da lezione 4/Pasted image 20220301122611.png]]
-Nel vuoto cambiano e diventano:
+In assenza di cariche diventano:
 ![[../Relatività/File/todo da lezione 4/Pasted image 20220301122652.png]]
 Queste equazioni verificano l'[[Equazione di D'Alembert]].
 Ora, con questa roba avevamo un problema perchè l'eq di d'alembert non è invariante per trasformazioni galileiane:

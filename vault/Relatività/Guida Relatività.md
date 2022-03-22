@@ -73,6 +73,10 @@ osservazione su fattori di Lorentz multipli: [[../Note/Trasformazioni di Lorentz
 [[Note/Massa relativistica]] #todo sposta impuslo da qua
 [[Note/Energia relativistica]]
 ##### Lezione 8
-[[LEzione 8/Lezione 8]]
+[[Note/Relazione relativistica tra energia e impulso]]
+[[Note/Limite relativistico della velocità]]
+[[Note/Trasformazioni relativistiche di impulso ed energia]]
 ##### Lezione 9
-[[LEzione 9/Lezione 9]]
+[[../Note/Parallasse]]
+[[../Note/Aberrazione stellare]] e osservazioni di bradley. (Per ora raccolto tutto nel file aberrazione stellare, ma queste robe andrebbero splittate un attimo...)
+[[Note/Esperimento dell'etere di Fizeau]]

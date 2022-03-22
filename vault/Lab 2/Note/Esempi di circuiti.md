@@ -1,5 +1,4 @@
 Riferimenti:
-![[Pasted image 20220308144320.png]]
-![[Pasted image 20220308144404.png]]
+_Perfetti_, capitoli 2, 6, 7, 8
 ![[codice colore delle resistenze.png]]
-Da qua continua sulle slide 
+Da qua continua sulle slide

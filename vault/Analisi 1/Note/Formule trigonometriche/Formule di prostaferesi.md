@@ -1,0 +1,1 @@
+![[../../File/formule di prostaferesi.png]]

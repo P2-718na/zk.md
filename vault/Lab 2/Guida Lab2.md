@@ -54,9 +54,9 @@ Vedi slide, essenzialmente. Istruzioni per scrivere buona mail, vedi slide.
 ##### Lezione 3
 Struttura esame, continua: [[Note/Esempi di fit]]
 [[Note/Esempi di Circuiti]]
-[[Analisi circuiti in regime sinusoidale]]
+Analisi di circuiti in regime sinusoidale
 ##### Lezione 4
-Vedi dalle slide.
+Da qui, essenzialmente, ha seguito le slide...
 Operazioni per analisi fasoriale.
 ##### Lezione 5
-[[Cosa fare in lab]]
+[[Note/Pro tips dal prof]]
