@@ -8,6 +8,6 @@ OSS in realtà all'esponenziale nella formula di eulero, le soluzioni sarebbero 
 
 ### Rappresentazione polare con formula di eulero
 #todo
-![[todo eulero polare.png]]
+![[../File/todo eulero polare.png]]
 La notazione di Eulero è molto utile per eserguire le operazioni tra numeri complessi:vv
-![[todo eulero operazioni.png]]
+![[../File/todo eulero operazioni.png]]

@@ -9,7 +9,7 @@ con coefficienti c_n
 quando io prendo un termine generico dove sviluppo in serie, lo posso riscrivere in termini di questi esponenziali:
 ![[../File/todo da lezione 4/Pasted image 20220228153943.png]]
 Osservo che questi esponenziali sono dei [[Vettori rotanti (fasori)]], uno che ruota in senso orario (+) e uno antiorario (-).
-Vado a raccogliere e vedo (ultima riga foto sopra) i due fasori con [[Altre rappresentazioni dei complessi#Rappresentazione polare|rappre esponenziale]].
+Vado a raccogliere e vedo (ultima riga foto sopra) i due fasori con [[../../Metodi/Note/Altre rappresentazioni dei complessi#Rappresentazione polare|rappre esponenziale]].
 Raccolgo le parentesi prima degli esponenziali e ottengo;
 ![[../File/todo da lezione 4/Pasted image 20220228154125.png]]
 Ora rinomino un po' di roba perchè è comodo (?)

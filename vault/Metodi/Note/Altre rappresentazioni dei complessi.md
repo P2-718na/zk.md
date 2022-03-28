@@ -1,6 +1,6 @@
 ### Rappresentazione polare
-Geometricamente, i [[Metodi/Note/Numeri complessi|complessi]] possono essere rappresentati sul _piano di Argand-Gauss_
-![[Argand-Gauss.png]]
+Geometricamente, i [[Numeri complessi|complessi]] possono essere rappresentati sul _piano di Argand-Gauss_
+![[../File/Argand-Gauss.png]]
 da cui deriva naturalmente la rappresentazione polare:
 $$
 \left\{ 
@@ -23,7 +23,7 @@ $$
 \end{aligned}
 \right. 
 $$
-(dove si è usata la nozione di [[arcotangente estesa]]).
+(dove si è usata la nozione di [[Arcotangente estesa]]).
 I coefficienti $\rho$ e $\theta$ sono detti rispettivamente, __modulo__ e __anomalia__.
 
 `OSS` Il prodotto tra due complessi in forma polare è dato da:

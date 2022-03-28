@@ -25,7 +25,15 @@
 ---
 ### Studio di un sistema in una dimensione
 - [[Studio dell'oscillatore armonico]] Questa parte è sugli appunti pag 31/32. Qui bazzani prende un oscillatore armonico e studia completamente il sistema. Prima di farlo però, è necessario aver introdotto le coordinate azione-angolo. Per ora lo salto
-- [[Note/Studio di un sistema generico]]
+- [[Note/Studio di un sistema generico]] #todo 
+
+((ok mi sono rotto il cazzo, qui skippo un po' di roba e vado a vedere cosa è una lagrangiana)) #todo 
+
+[[Note/Variabili azione-angolo]] <-- CONTINUA DA QUA
 
 [[Meccanica analitica/Lezione 3/Lezione 3]]]]
 [[Note/Lezione 9/Lezione 9]]
+
+---
+### Meccanica Lagrangiana
+[[Note/Coordinate generalizzate]] #todo qui c'è ancora la definizione chill presa da wikipedia

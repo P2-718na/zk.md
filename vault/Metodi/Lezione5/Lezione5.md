@@ -58,7 +58,7 @@ Questo non è tutto, perchè possiamo considerare anche una funzione f(z), olomo
 Come conseguenza dello stesso problema di prima, osservo che una funzione olomorfa non pul raggiungere il minimo in modulo assoluto in nessun punto.
 
 ora, noi possiamo prendere una funzione olomorfa f(z) e considerare la funzione olomorfa esponenziale $e^{f(z)}$. Anche questa sarà olomorfa (l'esponenziale non ha zeri). Amche il modulo di questa funzione non può raggiungere ne massimo ne minimo. Ma quanto vale il modulo di questa funzione?
-Sappiamo che vale: [[Formula di Eulero]]
+Sappiamo che vale: [[../Note/Formula di Eulero]]
 ![[Pasted image 20220228164113.png]]
 E questo significa che anche la parte reale di una funzione olomorfa non può raggiungere il massimo.
 Ma non ci fermiamo qui, perchè possiamo anche introdurre un'altra funzione olomorfa:

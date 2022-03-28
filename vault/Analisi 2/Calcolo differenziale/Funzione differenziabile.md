@@ -1,4 +1,4 @@
-##### `DEF` Funzione differenziabile 
+##### `DEF` Funzione differenziabile (in insiemi aperti)
 Siano $A \subseteq \mathbb{R}^n$ [[Insieme aperto#DEF Insieme aperto|aperto]], $f := (f_1,\ \ldots,\ f_m) : A \rightarrow \mathbb{R}^m$, $x_0 \in A$. $f :=$ `differenziabile in x_0` $:\Leftrightarrow$
 $$\underset{L \in M_{n, m}(\mathbb{R})}{\exists}\ |\ f(x) = f(x_0) + L(x-x_0) + o(\lVert x - x_0 \lVert)$$
 equivalente a (applicando la definizione di [[o piccolo]]):

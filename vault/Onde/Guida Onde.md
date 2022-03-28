@@ -1,4 +1,4 @@
-### Corso
+w### Corso
 Mauro Villa
 [Lezioni Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDQyMmMxMTItN2RiNC00ZTBjLTkxMjctZTg2OTk1MTk2MGE3%40thread.v2/0?context=%7b%22Tid%22%3a%22e99647dc-1b08-454a-bf8c-699181b389ab%22%2c%22Oid%22%3a%2255cf41f2-666e-4a8b-92e0-630878079bcc%22%7d) [Virtuale](https://virtuale.unibo.it/course/view.php?id=29417) [Pagina del corso](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434319)
 
@@ -112,6 +112,9 @@ Esempi di [[Note/Onde trasversali su corda elastica#^1a9332]]
 ##### Lezione 14
 [[Note/Equazione di D'Alembert in coordinate polari sferiche]]
 [[Note/Onde armoniche in coordinate sferiche]]
+##### Lezione 15
+Passaggio da onde scalari a onde vettoriali
+[[Lezione 15/Lezione 15]]
 
 ---
 ### Fine argomenti parziale 1

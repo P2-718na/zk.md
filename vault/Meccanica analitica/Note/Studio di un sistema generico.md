@@ -15,7 +15,9 @@ $$
 
 ##### Simmetria rispetto all'asse $x$
 Partiamo ricavando $p$ dall'equazione sopra:
-$$p = \pm \sqrt{2m(E-V(r))}$$
+$$
+p = \pm \sqrt{2m[E-V(r)]}
+$$
 Questo ci permette di osservare che __tutte le curve di livello sono simmetriche rispetto all'asse $r$__. Possiamo quindi studiare il sistema solamente nel semiasse positivo delle $p$. (E questa osservazione resta valida _per tutti i sistemi dinamici di questo tipo_, indipendentemente dalla forma del potenziale).
 
 ##### Ricavare i punti fissi
