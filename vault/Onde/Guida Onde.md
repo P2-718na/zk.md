@@ -112,12 +112,16 @@ Esempi di [[Note/Onde trasversali su corda elastica#^1a9332]]
 ##### Lezione 14
 [[Note/Equazione di D'Alembert in coordinate polari sferiche]]
 [[Note/Onde armoniche in coordinate sferiche]]
+
+### Fine argomenti parziale 1
+
 ##### Lezione 15
-Passaggio da onde scalari a onde vettoriali
-[[Lezione 15/Lezione 15]]
+[[Note/Onde vettoriali]]
+[[Note/Polarizzazione]]
+[[Note/Principio di Huygens-Fresnel]]
+[[Note/Onde attraverso piccole aperture]]
 
 ---
-### Fine argomenti parziale 1
 ---
 
 

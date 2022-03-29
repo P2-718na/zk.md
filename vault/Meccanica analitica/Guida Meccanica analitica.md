@@ -36,4 +36,5 @@
 
 ---
 ### Meccanica Lagrangiana
+[[Componenti co(ntro)varianti]]
 [[Note/Coordinate generalizzate]] #todo qui c'è ancora la definizione chill presa da wikipedia

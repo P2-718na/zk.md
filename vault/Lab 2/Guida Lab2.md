@@ -60,3 +60,6 @@ Da qui, essenzialmente, ha seguito le slide...
 Operazioni per analisi fasoriale.
 ##### Lezione 5
 [[Note/Pro tips dal prof]]
+##### Lezione 6
+- "chi troverete in laboratorio"
+- [[Note/Lezione 6/Esperimenti di ottica]]
