@@ -1,6 +1,6 @@
 ##### Caso 2: S ferma, R in moto
 In questo caso, si ottiene che _il ricevitore percepisce una frequenza diversa rispetto a quella emessa dalla sorgente_. La frequenza ricevuta è data da:
-![[Pasted image 20220321144303.png]]
+![[../File/Pasted image 20220321144303.png]]
 
 `DIM` Immaginiamo che al tempo $t=0$, sorgente e ricevitore si trovino a una distanza pari ad L. Parte un segnale, questo viaggia verso il ricevitore. Nel frattempo, il ricevutore si avvicina alla sorgente.
 ![[../File/todo da lezione 13/Pasted image 20220321143657.png]]

@@ -3,15 +3,16 @@ Qui si è capito poco per ora. Sono sicuro che ci ritorneremo, per ora lascio co
 ![[../File/todo da lezione 1/Pasted image 20220221155123.png]]
 (??)
 Il vettore velocità è $\dot{z}$, che sarà perpendicolare al mio vettore z(t).
-Nel momento in cui il vettore posizione inizia a ruotare, il vettore velocità ruota mettendosi sempre a 90° rispetto ad esso. Il vettore acccelerazione, a sua volta sarà perpendicolare a $\dot{z}$.
+Nel momento in cui il vettore posizione inizia a ruotare, il vettore velocità ruota mettendosi sempre a 90° rispetto ad esso. Il vettore accelerazione, a sua volta sarà perpendicolare a $\dot{z}$.
 $\ddot{z}$ segue proprio l'equazione di un oscillatore armonico.
 
-Osserva come tutti qusti vettori si ottengono semplicemente tramite prodoitti e divisioni per lo stesso coeff. 
+Osserva come tutti questi vettori si ottengono semplicemente tramite prodotti e divisioni per lo stesso coefficiente. 
 
-==> DI fatto un'oscillazione è una rotazione di un vettore nel piano di Argand-gauss.
-(((???)))
+==> DI fatto un'oscillazione è una rotazione di un vettore nel piano di Argand-Gauss.
 ![[../File/todo da lezione 1/Pasted image 20220221155612.png]]
-vvv Vediamo le applicazioni di tutto (^^^) applicate al moto armonico:
+^^  corrisponde a [[../../Metodi/Note/Numeri complessi#^b739d5]].
+
+Applicazioni del metodo simbolico per i complessi:
 ![[../File/todo da lezione 1/Pasted image 20220221155826.png]]
 Se prendo tutto e sostituisco, mi trovo questa equazione:
 ![[../File/todo da lezione 1/Pasted image 20220221155904.png]]

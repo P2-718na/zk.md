@@ -38,3 +38,12 @@
 ### Meccanica Lagrangiana
 [[Componenti co(ntro)varianti]]
 [[Note/Coordinate generalizzate]] #todo qui c'è ancora la definizione chill presa da wikipedia
+[[Cinematica sulle curve]]
+
+
+---
+## Da qui la numerazione delle lezioni si sminchia
+[[Lezione 20]]
+[[Potenziale di Keplero]]
+[[Lezione 21/Lezione 21]]
+[[../Onde/Esercizi]]

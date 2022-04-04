@@ -30,3 +30,6 @@ L'esame è solo orale, ma nell'orale è presente anche una parte in cui ti chied
 ##### Residui
 [[Lezione5/Lezione5]]
 [[Lezione6/Lezione6]]
+
+##### Integrale di Lebesgue
+[[Lezione 10/Lezione 10]]

@@ -21,7 +21,7 @@ EDO differenziale in variabili, alle _derivate seconde_, _lineare_ (vale [[Princ
 Posso quindi associare anche a questa equazione un [[../../Algebra/Note/Operatori lineari|operatore lineare]]:
 ![[../File/todo da lezione 13/Pasted image 20220321152211.png]]
 Questo operatore è noto come _Operatore di D'Alembert/d'Alembertiano_, ed è indicato con il quadratino: $\square$. 
-Vediamo come si applica questa roba alle onde che conosciamo: ci aspettianom che questa eq in 3d abbia come limite l'eq. di d'Alembert in una dimensione:
+Vediamo come si applica questa roba alle onde che conosciamo: ci aspettiamo che questa eq in 3d abbia come limite l'eq. di d'Alembert in una dimensione:
 ![[../File/todo da lezione 13/Pasted image 20220321152449.png]]
 Devo ritrovare esattamente la mia stessa equazione di d'alembert in una dimensione.
 ![[../File/todo da lezione 13/Pasted image 20220321152507.png]]
@@ -29,14 +29,14 @@ Troviamo proprio quello che ci aspettiamo.
 
 Ora, vediamo come si comportano le soluzioni in tre dimensioni:
 ![[../File/todo da lezione 13/Pasted image 20220321152713.png]]
-Si verifica che (non lo dimostriamno):
+Si verifica che (non lo dimostriamo):
 ![[../File/todo da lezione 13/Pasted image 20220321152732.png]]
 Per ogni direzione $\hat u$ nello spazio 3d, per ogni funzione [[continua]] e derivabile due volte, le due funzioni lì sopra $f$ e $g$ _sono soluzioni_.
 Se al posto di $\hat u$ ci mettiamo $\hat x$, ci ritroviamo proprio nel caso unidimensionale. 
 
 Andiamo ad analizzare quello che succede per le onde di tipo progressivo. Chiamo S 
 
-oh no mi sono distratto un attimo porcodio che cabbo ha detto
+oh no mi sono distratto un attimo porcoddio che cabbo ha detto
 ![[../File/todo da lezione 13/Pasted image 20220321153201.png]]
 
 ![[../File/todo da lezione 13/Pasted image 20220321153211.png]]

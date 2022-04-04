@@ -1,6 +1,6 @@
 ### Orecchio
 ![[../File/todo da lezione 11/Pasted image 20220315095304.png]]
-Un orecchio è essenzialmente fatto in 3 pezzi. Il suono attraversa padiglione e condotto uditivo, viene preso su dal timpano, che fa vibrare gli ossicini. Un movimentl degli ossicini fa un movimento piccolo del liquido che c'è nella conchiglia e questo robo viene sentito dai sensori lì all'interno.
+Un orecchio è essenzialmente fatto in 3 pezzi. Il suono attraversa padiglione e condotto uditivo, viene preso su dal timpano, che fa vibrare gli ossicini. Un movimento degli ossicini fa un movimento piccolo del liquido che c'è nella conchiglia e questo movimento viene sentito dai sensori lì all'interno.
 
 "Per un fisico, un timpano è un diaframma che si comporta come un oscillatore armonico forzato".
 Come sarà il [[Fattore di qualità]] del nostro oscillatore/timpano?

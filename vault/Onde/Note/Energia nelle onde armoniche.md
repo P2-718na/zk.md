@@ -16,7 +16,7 @@ Il primo pezzo della corda (?) lo metto a zero:
 
 Quindi, trascrurando per il momento la reazione vincolare, ciò che mi deteremina il moto della corda è la legge della dinamica lungo y:
 ![[todo da lezione 8/Pasted image 20220308092016.png]]
-Dove, lavorando con le piccole oscillazioni, approssimiamo sen\theta a \tan theta (ci è comodo, funziona come nella dimostradzione di D'alembert, la tangente si può sostituire a quella roba.)
+Dove, lavorando con le piccole oscillazioni, approssimiamo $\sin\theta$ a $\tan \theta$ (ci è comodo, funziona come nella dimostrazione di D'alembert, la tangente si può sostituire a quella roba.)
 Questo risultato mi fa capire che la forza lungo y è sempre una quantità che dipende dalla corda.
 ![[todo da lezione 8/Pasted image 20220308092143.png]]
 Come abbiamo visto ieri, visto che abbiamo solo una semicorda, qui abbiamo solo onde progressive
@@ -26,7 +26,7 @@ andiamo a vedere... (?)
 Per le onde progressive, non vale solamente de d'alembert (che è alle derivate seconde), ma vale anche solo un'equazione alle derivate prime:
 ![[todo da lezione 8/Pasted image 20220308092450.png]]
 (Nell'equazione di D'alambert, per le sole onde regressive, è nascosta questa roba.).
-Questo ha tutta un'altra interpretazione, perchè d\csi/dt non è ltro che la velocità nel punto iniziale della corda. Posso quindi scrivere che la mia forza è proporzionale a:
+Questo ha tutta un'altra interpretazione, perchè d\csi/dt non è altro che la velocità nel punto iniziale della corda. Posso quindi scrivere che la mia forza è proporzionale a:
 ![[todo da lezione 8/Pasted image 20220308092656.png]]
 dove si ha![[todo da lezione 8/Pasted image 20220308092704.png]]
 . In pratica, qui la mia forza è come se mi stesse generando una velocità.
@@ -46,7 +46,7 @@ In una corda posso usare tensione e densità lineare. In realtà, facendo così,
 Questa forza proporzionale alla velocità ha la stessa struttura di una corda viscosa. Quindi, posso iniziare a pensare che nel mio sistema è come se ci fosse una forza viscosa nel punto iniziale della corda. Questa _forza viscosa_ (termine $-Zv_c$) assorbe il lavoro introdotto dalla mia forzante nel sistema. 
 ![[todo da lezione 8/Pasted image 20220308093436.png]]
 Dal punto di vista dell'anellino, questa forza dissipa energia. Vediamo come, in realtà, l'energia non viene dissipata.
-La cosa da osservare è che, a differenza di quello che succedeva nell'[[../Note/Oscillazioni forzate]] oscillatore armonico forzato, _forza velocità e forzante_ non risultavano in fase. Solo in condizioni di risonanza si verificava questa cosa.
+La cosa da osservare è che, a differenza di quello che succedeva nell'[[Oscillazioni forzate semplici]] oscillatore armonico forzato, _forza velocità e forzante_ non risultavano in fase. Solo in condizioni di risonanza si verificava questa cosa.
 
 Vediamo ora le cose dal punto di vista quantitativo:
 ![[todo da lezione 8/Pasted image 20220308093635.png]]

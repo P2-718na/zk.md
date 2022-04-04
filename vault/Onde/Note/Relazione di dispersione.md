@@ -1,5 +1,5 @@
 ### Relazione di dispersione
-Quello che succede è che nei sistemi fisici, ogni tanto succedono delle cose che noi non ci  aspettiamo_ vediamo cosa succede:
+Quello che succede è che nei sistemi fisici, _ogni tanto succedono delle cose che noi non ci  aspettiamo_ vediamo cosa succede:
 ![[../File/todo da lezione 7/Pasted image 20220307150635.png]]
 
 Il legame tra questi due è che \omega = vk. Questa relazione è detta:

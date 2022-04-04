@@ -76,3 +76,6 @@ Potenza:
 ![[../File/todo da lezione 10/Pasted image 20220314150827.png]]
 Le onde stazionarie non trasportano energia, quindi di fatto _qui non parliamo mai di energia_.
 ![[../File/todo da lezione 10/Pasted image 20220314150947.png]]
+
+vv Onde stazionarie in un tubo. (Analogo per una corda: il tubo chiuso rappresenta un vincolo fisso, l'estremità aperta vuol dire che si può muovere.)
+![[../File/onde stazionarie in un tubo.png]]

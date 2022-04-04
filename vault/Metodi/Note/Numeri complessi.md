@@ -57,7 +57,7 @@ z^{-1}= \frac{1}{a+ib} = \frac{a - ib}{a^2 + b^2} \equiv \frac{\overline{z}}{|z|
 $$
 dove ho moltiplicato e diviso per il [[#DEF Complesso coniugato|coniugato]] di z.
 
-`OSS` Con la nozione di [[#DEF Complesso coniugato|coniugato]] e [[#PROP Inverso di un complesso|inverso]], ho un modo per calcolare [[#DEF Parte reale e immaginaria di un complesso|parte reale e immaginaria]] di un complesso, senza dovermi affidare alla notazione algebrica:
+`OSS` Con la nozione di [[#DEF Complesso coniugato|coniugato]] e [[#PROP Inverso di un complesso|inverso]], ho un modo per calcolare [[#DEF Parte reale e immaginaria di un complesso|parte reale e immaginaria]] di un complesso, senza dovermi affidare alla notazione algebrica: ^b739d5
 $$
 \begin{aligned}
 Re(z) &= \frac{z+\overline{z}}{2} \\

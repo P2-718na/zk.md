@@ -10,6 +10,9 @@ $$
 $$
 (l'integrale deve essere fatto su _un periodo_, con estremi a piacere).
 
+`APPL` Droppo qui questo link: https://www.youmath.it/lezioni/analisi-matematica/integrali/602-integrali-di-funzioni-goniometriche-parte-seconda.html
+che è utile per risolvere nella pratica questi integrali. (Andrebbe )
+
 (Vedi [[../Snippets/fourier-calc.ipynb]])
 
 Di questo non vedremo una dimostrazione, ma solo una giustificazione del perchè valgono queste formule. Sarà necessario tenere a mente la definizione di [[Serie di funzioni convergente]] 
@@ -62,3 +65,15 @@ Le formule che si ottengono per tutta la roba sono:
 ![[thm fourier 12.png]]
 osservo che a_0 scritto così, rappresenta il valore medio della mia funzione periodica scritto su un periodo.
 => queste sono le soluzioni per una funzione periodica arbitraria.
+
+
+Per finire, vediamo qualche esempio:
+![[../File/todo da lezione 4/Pasted image 20220228155541.png]]
+La domanda che ci facciamo è: riusciamno a rapparesentare cos^2 di wt come serie di fourier? Sì, usando le [[../../Analisi 1/Note/Formule trigonometriche/Formule di bisezione]]:
+![[../File/todo da lezione 4/Pasted image 20220228155649.png]]
+Esempio2
+![[../File/todo da lezione 4/Pasted image 20220228155724.png]]
+Una funzione che va da + certa ampiezza  a - certa ampiezza in maniera oscillatoria. Problema tipo: trovare i coeff dello svlipuppo in serie di fourier.
+![[../File/todo da lezione 4/Pasted image 20220228155810.png]]
+La cosa figa da vedere è qua: https://www.desmos.com/calculator/1ocbzz5ink
+![[../File/todo da lezione 4/Pasted image 20220228160042.png]]

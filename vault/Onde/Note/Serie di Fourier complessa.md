@@ -4,7 +4,7 @@ con coefficienti c_n
 ![[../File/todo da lezione 4/Pasted image 20220228154617.png]]
 => La mia funzione periodica, qui, è un unica sommatoria di fasori.
 
-^^^ Tutta questa roba che abbiamo visto, è la [[Serie di Fourier]] nel __campo reale__. Nei complessi, invece, la serie è "più simmetrica":
+Nei complessi, invece, la [[Serie di Fourier]] è "più simmetrica":
 ![[../File/todo da lezione 4/Pasted image 20220228153919.png]]
 quando io prendo un termine generico dove sviluppo in serie, lo posso riscrivere in termini di questi esponenziali:
 ![[../File/todo da lezione 4/Pasted image 20220228153943.png]]

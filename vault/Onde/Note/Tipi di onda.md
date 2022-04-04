@@ -1,13 +1,15 @@
 Le onde possono essere classificate in base a due caratteristiche:
-### Per grandezza fisica
+### 1) Per grandezza fisica
+#### Onde scalari
 ![[todo tipi onda 1.png]]
-^^ Onde scalari, descritte da una funzione semplice di spazio e tempo.
-Più interessanti, sono le onde vettoriali:
+
+#### Onde vettoriali
 ![[todo tipi onda 2.png]]
-Per precisare, esistono anche le onde tensoriali (non trattate nel corso):
+
+#### Onde tensoriali
 ![[todo tipi onda 3.png]]
 
-### Per ambito
+### 2) Per ambito
 ![[todo tipi onda 4.png]]
 
 ### Onde

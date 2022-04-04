@@ -80,3 +80,5 @@ osservazione su fattori di Lorentz multipli: [[../Note/Trasformazioni di Lorentz
 [[../Note/Parallasse]]
 [[../Note/Aberrazione stellare]] e osservazioni di bradley. (Per ora raccolto tutto nel file aberrazione stellare, ma queste robe andrebbero splittate un attimo...)
 [[Note/Esperimento dell'etere di Fizeau]]
+##### Lezione 10
+[[Lezione 10/Lezione 10]]

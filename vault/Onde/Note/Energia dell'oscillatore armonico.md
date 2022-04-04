@@ -1,4 +1,3 @@
-#cleanme
 ### Conservazione dell'energia nell'[[oscillatore armonico]]
 La [[Forza di Hooke]] è conservativa, quindi posso definire un'energia potenziale:
 ![[../File/todo da lezione 1/Pasted image 20220221152150.png]]

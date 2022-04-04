@@ -13,7 +13,7 @@ _Esempio_:
  ![[../File/todo da lezione 11/Pasted image 20220315100713.png]]
  Il mio risultato è 
  ![[../File/todo da lezione 11/Pasted image 20220315100724.png]]
- Questa è l'intensiutà di una conversazione normale.
+ Questa è l'intensità di una conversazione normale.
 Ricordando che questa roba è definita come il valore medio del'impedenza per...
 ![[../File/todo da lezione 11/Pasted image 20220315100800.png]]
 Si ottiene che

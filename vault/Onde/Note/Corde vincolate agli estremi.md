@@ -3,12 +3,12 @@ Vediamo ora cosa succede se abbiamo una _corda fissata a due estremi:_
 ![[../File/todo da lezione 10/Pasted image 20220314144618.png]]
 Ora in questa situazione abbiamo due vincoli da applicare alla nostra roba: sia il priom che l'ultimo punto sono due punti vincolati => avranno sempre y = 0.
 _Cosa mi dice questo vincolo ulteriore?_
-Giuardando dal punto di vista matematicpo., se alla fine deve essercoi un nodo, viuol dire che:
+Guardando dal punto di vista matematico., se alla fine deve esserci un nodo, vuol dire che:
 ![[../File/todo da lezione 10/Pasted image 20220314144757.png]]
-Questo vuol dire che il mio k _NON può essere arbitrario_ come prima, ma può assumere solo certi valori (scritti nella foto sopra). Quando K assume uno di questi valori, allora ho effetticvamente un'onda stazionaria.
+Questo vuol dire che il mio k _NON può essere arbitrario_ come prima, ma può assumere solo certi valori (scritti nella foto sopra). Quando K assume uno di questi valori, allora ho effettivamente un'onda stazionaria.
 
-"Concettualmente questa roba è simile alla quantizzazione della meccanica quantistica: Per via di alucni vincoli, solo alcuni valori di un parametro diventano accettabili => quantizzazione dei numeri d'onda (nel nostro caso)". 
-Per noi, una volta che si quantizza unnumero do'nda, si ottiene che tutto è quzntizzato:
+"Concettualmente questa roba è simile alla quantizzazione della meccanica quantistica: Per via di alcuni vincoli, solo alcuni valori di un parametro diventano accettabili => quantizzazione dei numeri d'onda (nel nostro caso)". 
+Per noi, una volta che si quantizza un numero d'onda, si ottiene che tutto è quantizzato:
 ![[../File/todo da lezione 10/Pasted image 20220314145017.png]]
 
 ---

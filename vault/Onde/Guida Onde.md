@@ -1,4 +1,4 @@
-w### Corso
+### Corso
 Mauro Villa
 [Lezioni Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDQyMmMxMTItN2RiNC00ZTBjLTkxMjctZTg2OTk1MTk2MGE3%40thread.v2/0?context=%7b%22Tid%22%3a%22e99647dc-1b08-454a-bf8c-699181b389ab%22%2c%22Oid%22%3a%2255cf41f2-666e-4a8b-92e0-630878079bcc%22%7d) [Virtuale](https://virtuale.unibo.it/course/view.php?id=29417) [Pagina del corso](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434319)
 
@@ -56,26 +56,26 @@ Si chiedono dimostrazioni. Molte domande riguarderanno il principio di causa-eff
 ##### Lezione 1
 [[Definizione di onda]] #cleanme
 [[Forza di Hooke]] #cleanme
-[[Oscillatore armonico]], [[Note/Energia dell'oscillatore armonico]]
+[[Oscillatore armonico]], [[Note/Energia dell'oscillatore armonico]] #cleanme
 [[Moti oscillatori in sistemi non meccanici]] #cleanme
 [[Regime delle piccole oscillazioni]] #cleanme
 [[Moto armonico e complessi]] #cleanme
 [[Vettori rotanti (fasori)]] #todo
 ##### Lezione 2
 [[Oscillazioni smorzate]] #cleanme
-[[Oscillazioni forzate]], con forzante costante e [[Oscillazioni con forzante periodica|periodica]] #cleanme
+[[Note/Oscillazioni forzate semplici]], con forzante [[Note/Oscillazioni con forzante costante|costante]] e [[Note/Oscillazioni con forzante periodica - soluzione particolare|periodica]] #cleanme
 [[Impedenza meccanica]] #todo
-[[Funzione di risposta ]](+ esempi)
-[[Fattore di qualità]] (+ esempi)
+[[Funzione di risposta ]](+ esempi) #todo
+[[Fattore di qualità]] (+ esempi) #todo
 ##### Lezione 3
-Lezione raccolta in [[Note/Oscillazioni con forzante periodica]]
+Lezione raccolta in [[Note/Oscillazioni forzate semplici]]
 ##### Lezione 4
 [[Note/Risoluzione EDO per esercizi di onde]]
 Concetto di [[Operatori lineari]] e [[Principio di Sovrapposizione]]
 [[Serie di Fourier]] e [[Serie di Fourier complessa]]
-Risoluzione di [[Oscillatore armonico con forzante arbitraria]], 
 ##### Lezione 5
 [[Trasformata di Fourier]] e proprietà
+Risoluzione di [[Oscillatore armonico con forzante arbitraria]], 
 [[Note/Onde trasversali su corda elastica|Onde trasversali su corda elastica]]
 [[Note/Equazione di D'Alembert|Equazione di D'Alembert]]
 Esercizio molto interessante: [[Note/Equazione di Hopf]]. Mostra come certe onde che di norma non rispettano D'Alembert, nel regime delle piccole oscillazioni cambiano comportamento.
@@ -86,15 +86,15 @@ Esempi di [[Note/Onde trasversali su corda elastica#^1a9332]]
 [[Onde armoniche]]
 [[Proprietà delle onde armoniche]]
 [[Relazione di dispersione]]
-[[Generalizzazione a partire dalle onde armoniche]]
+[[Note/Importanza delle onde armoniche]]
 ##### Lezione 8
 [[Note/Energia nelle onde armoniche]] (da sistemare, qui cita anche il concetto di impedenza e lo generalizza)
 [[Note/Intensità di un'onda armonica]]
 ##### Lezione 9
-[[Riflessione e trasmissione delle onde armoniche]]
-[[Raccordo delle impedenze]]
+[[Note/Riflessione e trasmissione delle onde armoniche]]
+[[Note/Raccordo delle impedenze]]
 ##### Lezione 10
-[[Note/Onde stazionarie]]
+[[Note/Onde stazionarie]] e [[Note/Corde vincolate agli estremi]]
 [[Note/Onde sonore]]
 [[Note/Strumenti a corda]]
 ##### Lezione 11
@@ -109,20 +109,19 @@ Esempi di [[Note/Onde trasversali su corda elastica#^1a9332]]
 [[Note/Effetto Doppler]]
 [[Note/Equazione di D'Alembert nello spazio tridimensionale]]
 [[Note/Onde armoniche piane]]
+
+---
+### Fine argomenti parziale 1
+---
+
 ##### Lezione 14
 [[Note/Equazione di D'Alembert in coordinate polari sferiche]]
 [[Note/Onde armoniche in coordinate sferiche]]
-
-### Fine argomenti parziale 1
-
 ##### Lezione 15
 [[Note/Onde vettoriali]]
 [[Note/Polarizzazione]]
 [[Note/Principio di Huygens-Fresnel]]
 [[Note/Onde attraverso piccole aperture]]
-
----
----
 
 
 

@@ -1,6 +1,6 @@
 ### Analisi energetica delle onde sonore
 ![[../File/todo da lezione 11/Pasted image 20220315093543.png]]
-Se mi metto in questo tuob, per generare l'onda avrò uno speaker/diaframma/qualcosa all'imboccatura che mette in moto le molecole all'interno. Immaginiamo che la $\xi(\bar x, t)$ ci venga data (con \bar x punto fissato). Questa csi genera localmente un onda di pressione (formula in basso a destra in ^^).
+Se mi metto in questo tubo, per generare l'onda avrò uno speaker/diaframma/qualcosa all'imboccatura che mette in moto le molecole all'interno. Immaginiamo che la $\xi(\bar x, t)$ ci venga data (con $\bar x$ punto fissato). Questa $\xi$ genera localmente un onda di pressione (formula in basso a destra in ^^).
 Un onda di pressione vuol dire che le molecole del mio gas si metteranno in oscillazione con una certa velocità. Questa velocità sarà la derivata della \xi rispetto al tempo:
 ![[../File/todo da lezione 11/Pasted image 20220315093717.png]]
 Mediamente, la velocità media delle particelle sarà zero (non ho un moto degli atomi lungo il mio tubo, in media questi rimarranno fissi).

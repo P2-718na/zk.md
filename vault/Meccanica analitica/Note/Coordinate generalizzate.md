@@ -1,2 +1,4 @@
-#wikipedia 
-In meccanica razionale un sistema di coordinate generalizzate è un sistema di coordinate, _di numero pari ai gradi di libertà del sistema_, che determina univocamente tutte le configurazioni di un sistema.
+Allora
+qua non si capisce una sega
+https://it.wikipedia.org/wiki/Coordinate_generalizzate
+Questo, tanta roba ^^

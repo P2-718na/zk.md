@@ -1,6 +1,6 @@
 Noi ci troviamo in una situazione in cui vogliamo risolvere una generale soluzione dalla formula (con una forzante arbitraria):
 ![[../File/todo da lezione 4/Pasted image 20220228141114.png]]
-(vogliamo trovcare la formula per le soluzioni in forma più generale possibile).
+(vogliamo trovare la formula per le soluzioni in forma più generale possibile).
 
 Per farlo, dobbiamo capire quali sono le caratteristiche più generali di questa equazione.
 Eq. differenziale => Cerco una funzione x(t) che risolva questa roba.
@@ -13,13 +13,13 @@ Sulla parte dell'omogenea, vale il _principuo di sovrapposizione_: se x1, x2 son
 ![[../File/todo da lezione 4/Pasted image 20220228141431.png]]
 
 Proviamo ad introdurre un po' di terminologia:
-un0equazioned i questo genere:
+un'equazione di questo genere:
 ![[../File/todo da lezione 4/Pasted image 20220228141501.png]]
-può essere riscritta in un linguaggio che contiene i "[[operatori funzionali]]".
+può essere riscritta in un linguaggio che contiene gli "[[operatori funzionali]]".
 
 [[../../Algebra/Note/Operatori funzionali]]
 
-Questi operatori funzionali sono particolarmente utili perchè mi danno un modo di scrivere equazioni in modo sintetico. A noi interessano in modo particolare i cosiddetti [[../../Algebra/Note/Operatori lineari]]La domanda ora è: 
+Questi operatori funzionali sono particolarmente utili perchè mi danno un modo di scrivere equazioni in modo sintetico. A noi interessano in modo particolare i cosiddetti [[../../Algebra/Note/Operatori lineari|operatori lineari]] La domanda ora è: 
 se so che tutte queste robe sono operatori lineari, la domanda è:
 ![[../File/todo da lezione 4/Pasted image 20220228142056.png]]
 questa roba, è un operatore lineare? SÌ.
@@ -70,14 +70,3 @@ Le soluzioni, assieme, andranno ad essere queste:
 ![[../File/todo da lezione 4/Pasted image 20220228143924.png]]
 ![[../File/todo da lezione 4/Pasted image 20220228144027.png]]
 [[../../Algebra/Note/Operatori lineari#Esempi di op lineari]]
-
-Per finire, vediamo qualche esempio:
-![[../File/todo da lezione 4/Pasted image 20220228155541.png]]
-La domanda che ci facciamo è: riusciamno a rapparesentare cos^2 di wt come serie di fourier? Sì, usando le [[../../Analisi 1/Note/Formule trigonometriche/Formule di bisezione]]:
-![[../File/todo da lezione 4/Pasted image 20220228155649.png]]
-Esempio2
-![[../File/todo da lezione 4/Pasted image 20220228155724.png]]
-Una funzione che va da + certa ampiezza  a - certa ampiezza in maniera oscillatoria. Problema tipo: trovare i coeff dello svlipuppo in serie di fourier.
-![[../File/todo da lezione 4/Pasted image 20220228155810.png]]
-La cosa figa da vedere è qua: https://www.desmos.com/calculator/1ocbzz5ink
-![[../File/todo da lezione 4/Pasted image 20220228160042.png]]

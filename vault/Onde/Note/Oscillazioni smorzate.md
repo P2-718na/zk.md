@@ -1,5 +1,5 @@
 ### Oscillatore armonico smorzato
-Se prendiamo un [[Oscillatore armonico]] reale, osserviamo che questo è sempre sottoposto a qualche tipo di attrito viscoso. Questo attrito è una forza che dipende dalla velocità, e modifica l'equazione del moto in:
+Se prendiamo un [[Oscillatore armonico]] reale, osserviamo che questo è sempre sottoposto a qualche tipo di attrito viscoso (= forza _non posizionale_, che dipende dalla _derivata prima_ della posizione). Questo attrito modifica l'equazione del moto in:
 $$
 \vec F_e = -k \vec x \hspace{30px}
 \vec F_s = -\beta \dot{\vec x} \hspace{30px}
@@ -12,26 +12,35 @@ Posso riscrivere tutto in termini di $x$, togliendo i vettori (ci stiamo muovend
 $$
 -kx - \beta \dot x = m \ddot x
 $$
-Ora posso riordinare e ottengo una [[EDO]] alle derivate seconde, _lineare e omogenea_. (1)
-![[../File/todo da lezione 2/Pasted image 20220222091227.png]]
-Osservo che la x appare sempre di primo grado e moltiplicata per coeff. costanti => è lineare (rispetto ad x).
-C'è il termine noto che vale zero => è omogenea.
-^^ Queste due cose hanno conseguenze molto importanti (vedremo più avanti, [[Onde/Lezione 4/Lezione4]]).
+Ora posso riordinare e ottengo una [[EDO]] alle derivate seconde (1), _lineare e omogenea_:
+#### `DEF` Equazione dell'oscillatore armonico forzato
+$$
+\ddot x + \frac \beta m \dot x + \frac k m x = 0
+$$
+_lineare_ $\impliedby$ la $x$ appare sempre con _potenza $1$_ e moltiplicata per _coefficienti costanti_
+_omogenea_ $\impliedby$ il _termine noto_ vale $0$
+(Queste due proprietà avranno riscontro quando si parla di [[../../Algebra/Note/Operatori lineari|operatori lineari]]).
 
+---
+`PROP` #todo questa roba idealmente andrebbe spostata in una sezione apposita per le EDO
 In particolare, _per ogni EDO lineare e omogenea_, vale questa proprietà:
 se prendo due soluzioni particolari, allora _una combinazione lineare di queste due soluzioni_ è anch'essa soluzione.
 ![[../File/todo da lezione 2/Pasted image 20220222091442.png]]
-Per equazioin lineari omog. del II ordine, ne bastano due. Per ordinim superiori, ne servono di più.
-In fisica, diremo che questo è il "principio di sovrapposizione".
+Per equazioni lineari omogenee. del II ordine, ne bastano due. Per ordini superiori, ne servono di più.
+In fisica, diremo che questo è il "_principio di sovrapposizione_".
 
-==> A questo punto, per risolvere (1), vado a cercare due soluzioni particolari e le metto assieme. Vado a cercare una soluzione del tipo $x(t)=e^{\lambda t}$. (Il problema delle grandezze verrà risolto dopo con dei coefficienti), con lambda complesso.
+---
+#cleanme ^^ la sezione sopra essenzialmente si può yeetare. Qua sotto va tenuto, fino a prossima sezione che va spostata
+
+==> A questo punto, per risolvere (1), vado a cercare due soluzioni particolari e le metto assieme. Vado a cercare una soluzione del tipo $x(t)=e^{\lambda t}$ (Il problema dimensionale verrà risolto dopo con dei coefficienti), con lambda complesso.
 ![[../File/todo da lezione 2/Pasted image 20220222091710.png]]
 ^^ queste sono quindi posizione, velocità, accelerazione nel campo complesso.  Vado a fare la combinazione lineare (sostituisco 3 righe sopra):
 ![[../File/todo da lezione 2/Pasted image 20220222091807.png]]
 ^^ Raccolgo la x. Osservo intanto che x=0 è soluzione. Non è però la soluzione che mi interessa, visto che quella è il punto di stabilità, dove so già cosa succede.
 La cosa interessante è il secondo fattore. Questo è detto "polinomio caratteristico". Gli zeri del polinomio caratteristico sono le soluzioni in lambda per una particolare soluzione. (lambda andrà pluggato nell'immagine sopra, dove abbiamo trovato $\dot{x}, \ddot{x}$.
 
-(discorso su come risolvere equazione di secondo grado)
+---
+#todo questi tre devono avere ognuno la sua sezione.
 
 => A seconda del segno del ∆ del polinomio caratteristico, avrò dei casi diversi di moto armonico:
 1. $\Delta > 0$  => due soluzioni diverse, reali e negative (osservo che sono negative dai segni dei coefficienti).
@@ -41,7 +50,7 @@ La cosa interessante è il secondo fattore. Questo è detto "polinomio caratteri
 Il moto di questo tipo è:
 ![[moto sovrasmorzato.png]]
 
-QUanto velocemente va a zero, dipende dalla soluzione più piccola in valore assoluto.
+Quanto velocemente va a zero, dipende dalla soluzione più piccola in valore assoluto.
 (oss il beta sarebbe il coeff di stokes, misura quantoa ttrito ho. In questo caso, domina beta)
 
 - $\Delta$ = 0 => due soluzioni uguali, reali e negative:
@@ -68,9 +77,11 @@ Dove e^iw è il nostro fasore.
  Volendo, posso cambiare rappresentazione al numero complesso e ottengo:
  ![[../File/todo da lezione 2/Pasted image 20220222093416.png]]
  dove A,B,C sono tutte costanti arbitrarie (legate tra di loro, non mi interessa come).
- ^^ l'ultimo passaggio è una roba che si può fare ma non ha ftto:
- "quando ho un'espressione del tipo acost + bsent, la posso quasi sempre riscrivere come
- ccos(t+delta)".
+ ^^ l'ultimo passaggio è una roba che si può fare ma non ha fatto:
+ 
+ `PROP` quando ho un'espressione del tipo $A\cos(t) + B\sin(t)$, la posso quasi sempre riscrivere come
+ $C\cos(t + \delta)$.
+ 
  Osservo che visto che le soluzi son ocomplesse coniugate, la parte immaginaria va via
  La cosa che mi interessa è che alla fine ho una x(t) tutta nel campo reale.
  Il moto che si ottiene è:
@@ -92,5 +103,5 @@ Questa è l'equazione della maglia, espressa in termini di Carica che sta su C
 Questa roba è sempre analoga ad un oscillatore armonico smorzato:
 Se delta minore di zero si ha:
 ![[../File/todo da lezione 2/Pasted image 20220222094644.png]]
-(di fatto questo apparecchio è in tutte le antenne, quindi si cerca ad avere uno smorzxamento piccolo)
+(di fatto questo apparecchio è in tutte le antenne, quindi si cerca ad avere uno smorzamento piccolo)
 ![[../File/todo da lezione 2/Pasted image 20220222094653.png]]

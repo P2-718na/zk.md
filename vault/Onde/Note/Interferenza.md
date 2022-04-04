@@ -3,7 +3,7 @@
 
 ### Interferenza
 ![[../File/todo da lezione 11/Pasted image 20220315103031.png]]
-L'interferenza è un fenomeno fisico che nasce quando nella stessa regione dello spazio mi trovo due onde armoniche con _esattamente la stessa pulsazione_. Onde armoniche con la stessa pulsazione vengono dette _coerenti_. Per assicurarci di avere onde con la stessa pulsazione (con precisione arbitraria), dobbiamo fare in modo che le due onde siano due aspetti diversi dello stesso fenomeno.
+L'interferenza è un fenomeno fisico che nasce quando nella stessa regione dello spazio mi trovo due onde armoniche con _esattamente la stessa pulsazione_. Onde armoniche con la stessa pulsazione vengono dette _coerenti_. Per assicurarci di avere onde con la stessa pulsazione (con precisione arbitraria), dobbiamo fare in modo che _le due onde siano due aspetti diversi dello __stesso__ fenomeno_.
 
 Quindi, prendo due onde con la stessa pulsazione:
 ![[../File/todo da lezione 11/Pasted image 20220315103221.png]]
@@ -16,7 +16,7 @@ Per rappresentarla ez, vado nel campo complesso (qui ho i calcoli appena più fa
 ![[../File/todo da lezione 11/Pasted image 20220315103402.png]]
 Qui, sommare le due onde vuol dire somamre questi due numeri complessi. Vado nel piano di Argand-Gauss.
 ![[../File/todo da lezione 11/grafico di argand-gauss.png]]
-In questo piano la mia onda è un vettore. Ho le mie due onde \xi_1 e \xi_2, di ampiezze e fasi diverse.
+In questo piano la mia onda è un vettore. Ho le mie due onde $\xi_1$ e $\xi_2$, di ampiezze e fasi diverse.
 La loro somma sarà quindi:
 ![[../File/todo da lezione 11/Pasted image 20220315103637.png]]
 La cosa che dovrebbe essere evidente da questo passaggio è che l'onda risultante è sempre un'onda armonica. La sia pulsazione sarà sempre $\omega$. => Nel momento in cui io lascio scorrere il tempo, $\xi_1$ fa un moto di rotazione orario assieme a $\xi_2$. La differenza tra le due fasi, quindi, rimane sempre fissata a $\varphi_0$. Il concetto di "stessa omega" si trasporta nel piano A-G con concetto di "differenza di fase costante".

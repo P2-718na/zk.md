@@ -4,9 +4,9 @@ Il fenomeno dei battimenti è concettualmente simile alla interferenza ma ha ris
 (con k1 e k2 numeri d'onda).
 Le prendo in questo modo:
 ![[../File/todo da lezione 12/Pasted image 20220316092100.png]]
-Questa volta non ci mettiamo uno sfasamento, perchè, se mi fissp in un punto dello spazio, w1t e w2t sono due fasi diverse. => In generale. c'è sempre una differenza di fase tra le due onde, _che varia nel tempo_.
+Questa volta non ci mettiamo uno sfasamento, perché, se mi fisso in un punto dello spazio, $w_1t$ e $w_2t$ sono due fasi diverse. => In generale. c'è sempre una differenza di fase tra le due onde, _che varia nel tempo_.
 
-Per capire cosa succede quando queste due si trovano nello stesso punto dello spazio, vado a chiamare
+Per capire cosa succede quando queste due si trovano nello stesso punto dello spazio, vado a porre
 ![[../File/todo da lezione 12/Pasted image 20220316092220.png]]
 e così posso lavorare più semplicemente nel campo complesso:
 ![[../File/todo da lezione 12/Pasted image 20220316092237.png]]
@@ -19,24 +19,24 @@ L'angolo di apertura tra i due fasori è variabile nel
  vabbè, ottengo:
  ![[../File/todo da lezione 12/Pasted image 20220316092650.png]]
  ![[../File/todo da lezione 12/Pasted image 20220316092732.png]]
- (ricordando che i due \phi dipendono da spazio e tempo)
+ (ricordando che i due $\varphi$ dipendono da spazio e tempo)
 .
 Ora, se faccio la stessa cosa con (??) trovo un onda più complicata:
 ![[../File/todo da lezione 12/Pasted image 20220316092906.png]]
 A questo punto, chiamo i due coefficienti:
 ![[../File/todo da lezione 12/Pasted image 20220316092932.png]]
 
-(?) Visto che ero partito con i due k vicini, avrò questo w0 che è vicino a entrambi. => la differenza deltaw è piccola (?)
+(?) Visto che ero partito con i due $k$ vicini, avrò questo $w_0$ che è vicino a entrambi. => la differenza $\Delta \omega$ è piccola (?)
 
-Quindi, la mia \xi avrà ora questa forma:
+Quindi, la mia $\xi$ avrà ora questa forma:
 ![[../File/todo da lezione 12/Pasted image 20220316093124.png]]
 Osservo che dentro a quest'onda ho due diverse periodicità. Due spaziali e due temporali. COncentriamoci sul tempo:
-_una_ periodicità deriva dall'ultimo fattore \omega_0. Questa periodicità è _più o meno_ la stessa delle onde di partenza.
-Quindi, l'aspetto nuovo arriva dal primo termine, dove ho un \Delta \omega. Visto che questo \Delta \omega è piccolo, la periodicità di questo termine (\tau) è _molto più grande_.
+_una_ periodicità deriva dall'ultimo fattore $\omega_0$. Questa periodicità è _più o meno la stessa delle onde di partenza_.
+Quindi, l'aspetto nuovo arriva dal primo termine, dove ho un $\Delta \omega$. Visto che questo $\Delta \omega$ è piccolo, la periodicità di questo termine ($\tau$) è _molto più grande_.
 ![[../File/todo da lezione 12/Pasted image 20220316093427.png]]
 _Il fenomeno dei battimenti è dovuto a questo termine modulante_.Riguardo alla frequenza dei battimenti, a volte si definisce con o senza il fattore 2 a denominatore.
 ![[../File/todo da lezione 12/Pasted image 20220316093516.png]]
-^^ scritta così ci indica che stiamo modulando l'AMPIEZZA. Se w_0 fosse funzione del tempo, avremmo una modulazione di frequenza.
+^^ scritta così ci indica che stiamo modulando l'_AMPIEZZA_. Se $w_0$ fosse funzione del tempo, avremmo una modulazione di frequenza.
 
 Quindi, visualizzando:
 Prendo una prima onda armonica, la seguo in un certo punto (t variabile):
