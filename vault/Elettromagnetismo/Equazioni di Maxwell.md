@@ -17,3 +17,6 @@ Le derivate sopra e sotto sono calcolate rispetto alle trasformazioni (sotto, in
 La cosa figa delle eq di Maxwell è che hanno resistito perfettamente sia alla relatività che alla quantizzazione.
 
 Quindi, le onde elettromgnetiche che soddisfano l'eq di d'alembert, se cambuano sistemi di riferimento con trasgft. di Lorentz sono perfettamente invarianti.
+
+--- Da lezione 16 onde
+![[Pasted image 20220404141634.png]]

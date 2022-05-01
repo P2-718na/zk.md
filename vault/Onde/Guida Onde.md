@@ -122,7 +122,13 @@ Esempi di [[Note/Onde trasversali su corda elastica#^1a9332]]
 [[Note/Polarizzazione]]
 [[Note/Principio di Huygens-Fresnel]]
 [[Note/Onde attraverso piccole aperture]]
+##### Lezione 16
+[[Lezione 16/Lezione 16]]
+##### Lezione 17
+[[Lezione 17/Lezione 17]]
+##### Lezione 18
+[[Lezione 18/Lezione 18]]
+##### Lezione 19
+[[Lezione 19/Lezione 19]]
 
-
-
-[[Esercizi]]
+    [[Esercizi]]

@@ -63,3 +63,5 @@ Operazioni per analisi fasoriale.
 ##### Lezione 6
 - "chi troverete in laboratorio"
 - [[Note/Lezione 6/Esperimenti di ottica]]
+##### Lezione 7
+[[Note/Lezione 7/Lezione 7]]
