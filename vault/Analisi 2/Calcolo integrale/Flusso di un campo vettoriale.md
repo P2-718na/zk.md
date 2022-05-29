@@ -13,3 +13,8 @@
 
 
 https://www.youmath.it/lezioni/analisi-due/varie/726-come-calcolare-il-flusso-di-un-campo-vettoriale.html
+
+### Diottri
+![[Pasted image 20220516152414.png]]
+
+Della sconda ora non ho seguito nulla. Vedi slide 33

@@ -123,12 +123,38 @@ Esempi di [[Note/Onde trasversali su corda elastica#^1a9332]]
 [[Note/Principio di Huygens-Fresnel]]
 [[Note/Onde attraverso piccole aperture]]
 ##### Lezione 16
-[[Lezione 16/Lezione 16]]
+[[Equazioni di Maxwell]]
+[[Onde elettromagnetiche]]
 ##### Lezione 17
-[[Lezione 17/Lezione 17]]
+[[Pressione di Radiazione]]
+[[Produzione delle onde EM, antenne]]
 ##### Lezione 18
-[[Lezione 18/Lezione 18]]
+[[Spettro elettromagnetico]]
 ##### Lezione 19
-[[Lezione 19/Lezione 19]]
+[[Onde EM nei dielettrici, legge di Lambert]]
+##### Lezione 20
+[[Onde EM nei metalli]]
+[[Polarizzatori]]
+[[Legge di Snell]]
+##### Lezione 21
+[[Fibre ottiche]]
+[[Principio di Fermat]]
+[[Formule di Fresnel]]
+[[Angolo di Brewster]]
+##### Lezione 22
+[[Interferenza di onde Elettromagnetiche]]
+[[Diffrazione]]
+[[Macchia di poisson]]
+[[Potere risolutivo]]
+##### Lezione 23
+[[Nomenclatura (ottica geometrica)]]
+[[Formazioni di immagini]]
+##### Lezione 24
+[[Formazioni di immagini]]
+[[Flusso di un campo vettoriale]]
+##### Lezione 25
+[[Sistemi ottici]]
+[[Aberrazioni]]
+
 
     [[Esercizi]]

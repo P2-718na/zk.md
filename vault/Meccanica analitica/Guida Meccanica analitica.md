@@ -43,7 +43,7 @@
 
 ---
 ## Da qui la numerazione delle lezioni si sminchia
-[[Lezione 20]]
+[[Lezione 20/Lezione 20]]
 [[Potenziale di Keplero]]
 [[Lezione 21/Lezione 21]]
 [[../Onde/Esercizi]]

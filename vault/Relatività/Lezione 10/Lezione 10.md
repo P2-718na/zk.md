@@ -191,7 +191,7 @@ Questo è detto angolo di diffusione \theta. Una volta selezionato l'angolo, si 
 Due parole su questo apparato:
 si chiama spettrometro di bragg, ma il nome corretto sarebbe "spettrometro dei bragg", visto che erano in due (padre e figlio).
 ![[Pasted image 20220404124831.png]]
-Questo affare sfrutta il fenomeno ottico della [[diffrazione]] dei raggi x.
+Questo affare sfrutta il fenomeno ottico della [[Diffrazione]] dei raggi x.
 
 Ora, siccome la lunghezza d'onda (energia) dei raggi x è molto elevata, bisogna usare un oggetto microscopico per osservare un fenomeno di diffrazione dei raggi x. (??)
 
