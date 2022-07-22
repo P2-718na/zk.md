@@ -3,7 +3,7 @@ Usciamo dal mondo delle onde su corda:
 ### Onde sonore
 Le onde sonore sono meccaniche (dipendono dalla presenza di un mezzo).
 ![[../File/todo da lezione 10/Pasted image 20220314152512.png]]
-Onde longitudinali: anche se sto ragionando con un vettore spostamento, questo può seguire solo la direzione della mia onda quindi bla bla bla
+Onde longitudinali: anche se sto ragionando con un vettore spostamento, questo può seguire solo la direzione della mia onda quindi\ bla bla bla
 Ad un certo punto lavoreremo con le onde sono re nello spazio tridkjentsionale. Per il momento, rimaniam0 ancora confinati in moti ad una sola dimensione.
 
 Andiamo a lavorare in una sola dimensione. Di fatto, questo vuol dire immaginare di avere un tubo:

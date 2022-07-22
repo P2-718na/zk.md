@@ -12,7 +12,7 @@ Young quindi si costruisce un apparato dove vengono messi in rilievo le parti on
 Sorgente di luce che blocca tutto, tranne una singola fenditura (molto piccola) al centro. Se il foro in s1 è abbastanza piccola, la luce andava a sbattere su s2 tramite fenomeno della diffrazione. Su s2 trovava altri due buchi di fessure molto piccole.
 Già il fatto che la luce non si muovesse dritta dritta ma si incurvasse, era molto amogus.
 ![[amogus?.png]]
-In più, le due altre fenditure si comportano come sorgen ti secondarie di luce.
+In più, le due altre fenditure si comportano come sorgenti secondarie di luce.
 ![[Pasted image 20220509141653.png]]
 
 Ora, la singola fenditura iniziale mi serve per fare in modo che alle altre due fenditure arrivino solamente delle onde _coerenti_ (= differenza di fase costante).
@@ -30,7 +30,7 @@ La luce coerente è un onda EM che oscilla:
 Su F1 c'è un certo campo \vec E_1.
 Sulla fenditura F2, non vogliamo farci del male, ci semplifichiamo la vita al massimo.
 
-Osservo che i due campi EM percorrono dei cammini di distanza leggermente diversa. Quindi, quando arrivano sullo schermo, l'_ingensità_ che vedo sarà il _campo elettrico mediato al quadrato._
+Osservo che i due campi EM percorrono dei cammini di distanza leggermente diversa. Quindi, quando arrivano sullo schermo, l'_intensità_ che vedo sarà il _campo elettrico mediato al quadrato._
 
 Diciamo che la distanza tra i due affari L è molto più grande della distanza tra le due fenditure. Quando arrivo in P quindi i due campi hanno più o meno la stessa intensità.
 ![[Pasted image 20220509142534.png]]
@@ -57,9 +57,9 @@ QUesti tre elementi sono quelli che mi entrano nella descrizione della mia roba.
 Se ho interferenza costruttiva
 ![[Pasted image 20220509143352.png]]
 L'interferenza costruttiva ce l'ho in questa condizione.
-Questa condizione sulla fase, diventa una condizione sull'angolo sen \theta. Elimino a destra e sinistra, risolvo per sen\theta. Il seno dell'angolo in cui osservo dei massimi è quindi ^^ \frac {n\lambda} d (dove $n$ è un _numero intero_.) Cosa succede in queste condizioni? questo (??) fattore vale due. Il modulo max del campo E vale 2 volte l'ampiezza amx di ogni singola onda. Se l'ampiezza di un onda ha una sola intensità luminosa che io chiamo I_0. L'intensità quindi è 4 volte l'intensità di partenzA (esarttamente quello che ci succedeva con il suono).
+Questa condizione sulla fase, diventa una condizione sull'angolo $\sin \theta$. Elimino a destra e sinistra, risolvo per $\sin\theta$. Il seno dell'angolo in cui osservo dei massimi è quindi ^^ $\frac {n\lambda} d$ (dove $n$ è un _numero intero_.) Cosa succede in queste condizioni? questo (??) fattore vale due. Il modulo max del campo E vale 2 volte l'ampiezza amx di ogni singola onda. Se l'ampiezza di un onda ha una sola intensità luminosa che io chiamo I_0. L'intensità quindi è 4 volte l'intensità di partenzA (esarttamente quello che ci succedeva con il suono).
 
-Cosa succede se lo sfasamenteo, anzichè essere un mulktiokio pari du due pi, è un multiplo dispari di 2\pi
+Cosa succede se lo sfasamenteo, anzichè essere un multiplo pari du due pi, è un multiplo dispari di 2\pi
 In questo caso si ha intensità distruttiva.
 ![[Pasted image 20220509143357.png]]
 ![[Pasted image 20220509143708.png]]

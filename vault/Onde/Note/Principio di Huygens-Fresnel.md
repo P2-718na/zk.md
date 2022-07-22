@@ -15,7 +15,7 @@ L'idea alla base è che:
 Nella foto sopra, a sinistra ho un esempio di un fronte d'onda sferico. L'onda successiva è l'inviluppo di tutti i fronti generati da ogni punto del primo fronte d'onda. A destra, la stessa roba per le onde piane.
 
 Ora, c'è un attimo un problema: per l'onda sferica, bisogna ricordare che _in realtà il fronte d'onda si muove sia verso destra che verso sinistra_. Questo problema si risolve mettendo una _dipendenza angolare_:
-Supponiamo che il mio fronte d'onda si stia muovendo verso destra, con una certa direzione del moto. L'ampiezza con cui viene generata l'onda da ogni sorgente di huygens è maggiore nella direzione di propagazione delle onde, minore nell'altro verso.
+	Supponiamo che il mio fronte d'onda si stia muovendo verso destra, con una certa direzione del moto. L'ampiezza con cui viene generata l'onda da ogni sorgente di huygens è maggiore nella direzione di propagazione delle onde, minore nell'altro verso.
 
 Huygens ha sparato a cazzo come fattore angolare:
 $$

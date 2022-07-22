@@ -1,4 +1,4 @@
-### Corso
+n### Corso
 Mauro Villa
 [Lezioni Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDQyMmMxMTItN2RiNC00ZTBjLTkxMjctZTg2OTk1MTk2MGE3%40thread.v2/0?context=%7b%22Tid%22%3a%22e99647dc-1b08-454a-bf8c-699181b389ab%22%2c%22Oid%22%3a%2255cf41f2-666e-4a8b-92e0-630878079bcc%22%7d) [Virtuale](https://virtuale.unibo.it/course/view.php?id=29417) [Pagina del corso](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434319)
 
@@ -48,9 +48,6 @@ Voto dello scritto dura per tutta la sessione, fino al primo appello della sessi
 **Orale**: Domande su minimo tre argomenti differenti, da almeno 2 persone diverse. Prenotazione 2 gg prima dell'esame.
 Orale obbligatorio.
 Si chiedono dimostrazioni. Molte domande riguarderanno il principio di causa-effetto: "perchè succede questo?"
-
-#### Date
-![[date esame onde.png]]
 
 #### Temi trattati
 ##### Lezione 1
@@ -107,7 +104,7 @@ Esempi di [[Note/Onde trasversali su corda elastica#^1a9332]]
 [[Note/Battimenti]]
 ##### Lezione 13
 [[Note/Effetto Doppler]]
-[[Note/Equazione di D'Alembert nello spazio tridimensionale]]
+[[Note/Equazione di D'Alembert nello spazio tridimensionale]] #cleanme  e [[Soluzioni per le onde tridimensionali]] #todo.
 [[Note/Onde armoniche piane]]
 
 ---
@@ -118,13 +115,15 @@ Esempi di [[Note/Onde trasversali su corda elastica#^1a9332]]
 [[Note/Equazione di D'Alembert in coordinate polari sferiche]]
 [[Note/Onde armoniche in coordinate sferiche]]
 ##### Lezione 15
-[[Note/Onde vettoriali]]
-[[Note/Polarizzazione]]
-[[Note/Principio di Huygens-Fresnel]]
-[[Note/Onde attraverso piccole aperture]]
+[[Note/Onde vettoriali]] #cleanme 
+[[Onde trasversali e longitudinali]] #cleanme 
+[[Note/Polarizzazione]] #cleanme
+[[Note/Principio di Huygens-Fresnel]] #cleanme #todo
+[[Note/Onde attraverso piccole aperture ]] #todo 
 ##### Lezione 16
-[[Equazioni di Maxwell]]
-[[Onde elettromagnetiche]]
+[[Equazioni di Maxwell]] #todo
+[[Onde elettromagnetiche]] #todo
+[[Teorema di Poynting]] #todo
 ##### Lezione 17
 [[Pressione di Radiazione]]
 [[Produzione delle onde EM, antenne]]
@@ -148,10 +147,10 @@ Esempi di [[Note/Onde trasversali su corda elastica#^1a9332]]
 [[Potere risolutivo]]
 ##### Lezione 23
 [[Nomenclatura (ottica geometrica)]]
-[[Formazioni di immagini]]
+[[Convenzioni sui segni (ottica geometrica)]]
 ##### Lezione 24
 [[Formazioni di immagini]]
-[[Flusso di un campo vettoriale]]
+[[Diottri]]
 ##### Lezione 25
 [[Sistemi ottici]]
 [[Aberrazioni]]

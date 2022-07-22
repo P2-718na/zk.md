@@ -46,7 +46,7 @@ Forza di richiamo atomica + forza dissipativa viscosa + forza data dal campo ele
 
 Riordinando e riscrivendo tutti i termini, ottengo:
 ![[Pasted image 20220501231752.png]]
-Ora, bisogna fare attenzione ai segni. A volte si usa e^{-i\omega t}, a volte e^{i \omega t}. Questa scelta può essere che vada a cambiare un po' di segni.
+Ora, bisogna fare attenzione ai segni. A volte si usa $e^{-i\omega t}$, a volte $e^{i \omega t}$. Questa scelta può essere che vada a cambiare un po' di segni.
 Andiamo ora a risolvere questa equazione:
 ![[Pasted image 20220501231948.png]]
 Sappiamo risolvere questa cosa:
@@ -65,7 +65,7 @@ Ma siccome la polarizzazione è collegata al campo elettrico tramite:
 ![[Pasted image 20220501232249.png]]
 Io di fatto ho la possibilità di riscrivere la polarizzazione come:
 ![[Pasted image 20220501232303.png]]
-Dove ho usato il fatto che il campo polarizzazione vale (due foto sopra). Il fasore che compare qua è esattamente uguale a quello del campo elettrico calcolato prima (tre foto sopra). => Il risultato che ho è che \vec P è qualcosa proporzionale a \varepsilon_zero \xi_e => posso scrivere esattamente cos'è \xi_e rispetto a tutta l'altra roba:
+Dove ho usato il fatto che il campo polarizzazione vale (due foto sopra). Il fasore che compare qua è esattamente uguale a quello del campo elettrico calcolato prima (tre foto sopra). => Il risultato che ho è che $\vec P$ è qualcosa proporzionale a $\varepsilon_0 \chi_e$ => posso scrivere esattamente cos'è $\chi_e$ rispetto a tutta l'altra roba:
 ![[Pasted image 20220501232417.png]]
 La mia suscettività elettrica, quindi, in questo caso, _non è costante ma dipende da una pulsazione_. Se questa roba dipende da una pulsazione, anche la mia costante dielettrica si trasformerà in una roba che dipende dalla pulsazione. Quindi, siccome la pulsante dielettrica è collegata all'indice di rifrazione $n$, anche l'indice di rifrazione dipenderà dalla pulsazione:
 ![[Pasted image 20220501232512.png]]
@@ -80,7 +80,7 @@ Ora, ragioniamo un attimo su questo termine. Che forma ha e che cosa comporta ?
 La scelta del + qua fa sì che si abbiano questi segni:
 ![[Pasted image 20220501232652.png]]
 Per la scelta che abbiamo fatto, la parte immaginaria è negativa.
-Separando n_r e n_i (parte reale e immaginaria dell'indice di rifrazione):
+Separando $n_{Re}$ e $n_{Im}$ (parte reale e immaginaria dell'indice di rifrazione):
 ![[Pasted image 20220501232732.png]]
 _Segue che:_
 ![[Pasted image 20220501232739.png]]

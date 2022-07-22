@@ -1,5 +1,5 @@
 ![[Pasted image 20220502144957.png]]
-Un polarizzatore trasforma della luce non polarizzata in luce polarizzatra.
+Un polarizzatore trasforma della luce non polarizzata in luce polarizzata.
 Essenzialmente, se ho luce non polarizzata vuol dire che ho due componenti di campo E che fanno robe. Un polarizzatore yeeta una delle due componenti.
 Come si realizzano i polarizzatori? Quelli più semplici sono dei fili metallici. Realizzo per esempio una sorta di schermo con fili metallici. Li tengo appena a distanza. Riesco a vedere i fili, se ho un onda radio che deve attrraversare questa roba, l'onda radio mette in moto gli elettroni solo lungo una direzione.
 Questo funziona molto bene per onde radio.

@@ -1,8 +1,16 @@
 ### Pressione di Radiazione
-(richiami alle onde EM e all'energia delle onde EM).
+#### `THM` Pressione di Radiazione
+![[Pasted image 20220411142953.png]]
+Quindi, ricapitolando, _per una carica libera nello spazio, le cose funzionano così. In particolare, la forza di Lorentz è sempre nello stesso verso_.
+![[Pasted image 20220411144408.png]]
+
+
+
+
+##### `DIM` Pressione di radiazione
 In particolare, abbiamo visto che il vettore di poynting trasporta energia, visto che la media del vettore non è nulla.
 ![[Pasted image 20220411142049.png]]
-Per capire questa cosa, vediamo di analizzare come si comporta una particella carica che viene investita da un onda elettromagnetica.
+Per capire questa cosa, _vediamo di analizzare come si comporta una particella carica che viene investita da un onda elettromagnetica_.
 Caso più semplice, consideriamo un onda EM del tipo:
 ![[Pasted image 20220411142249.png]]
 Ora immaginiamo che quest'onda si propaghi nel vuoto fino a che non incontri una carica libera. Per farla semplice, prendiamo questa carica come se fosse nell'origine di un sistema di assi cartesiani.

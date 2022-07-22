@@ -1,6 +1,6 @@
 ### Produzione delle onde EM
 Allora, partiamo dal generatore di campo EM: una carica.
-PRendiamo quindi una carica. Facciamo l'ipotesi che la mia carica sia positiva, ferma nell'origine, Cosa succede? Questa genera un campo elettrostatico radiale in tutto lo spazio (_aspettando un po' di tempo..._)
+Prendiamo quindi una carica. Facciamo l'ipotesi che la mia carica sia positiva, ferma nell'origine, Cosa succede? Questa genera un campo elettrostatico radiale in tutto lo spazio (_aspettando un po' di tempo..._)
 ![[Pasted image 20220411151913.png]]
 ![[Pasted image 20220411151958.png]]
 In questo caso non posso avere un onda elettromagnetica, visto che le leggi della fisica devono essere le stesse in tutti i sistemi di riferimento.

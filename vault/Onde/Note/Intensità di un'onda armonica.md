@@ -19,5 +19,5 @@ Fisicamente, questa roba mi torna. Visto che le energie si sommanbo sempre, io m
 In realtà questa roba funziona solo e soltanto perchè abbiamo _onde armoniche di pulsazione diversa_. QUando questo non succede, entriamo in un campo di fenomeni di interferenza  e succedono robe diverse.
 Fintanto che ho onde che fanno robe diverse, la somma delle intensità sta funzionando. Ogni singolo temrin equindi è un certa intensità I_n
 ![[../File/todo da lezione 8/Pasted image 20220308105106.png]]
-Questo I_n, (visto anche come funzione di w), è chaiamto _spettro dell'onda_. Dice quanta intensità c'è ad una certa funzione dell'onda.
+Questo I_n, (visto anche come funzione di w), è chaiamto _spettro di potenza dell'onda_. Dice quanta intensità c'è ad una certa funzione dell'onda.
 Domanda: Che fine ha fatto il coefficienet a0?

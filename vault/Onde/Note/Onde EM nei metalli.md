@@ -1,7 +1,7 @@
 ### Propagazione in un metallo
 ![[Pasted image 20220502141620.png]]
-Prendiamo le equazioni di maxwell generali, adattiamole al caso per o conduttori. Sappiamo che la densità di carica è nulla, e la daensità di corrente vale \sigma \vec E.
-Ora, questo sistema di equazioni è lineare _nella coppia (\vec E, \vec B)_. e omogeneo.
+Prendiamo le equazioni di maxwell generali, adattiamole al caso per o conduttori. Sappiamo che la densità di carica è nulla, e la densità di corrente vale $\sigma \vec E$.
+Ora, questo sistema di equazioni è lineare _nella coppia ($\vec E$, $\vec B$)_. e omogeneo.
 Ora, adiamo a vedere quali sono le equazioni delle onde in questo nuovo sistema di equazioni. 
 Faccio esattamente lo stesso percorso che ho fatto la stessa volta in [[?? link]], prendo l'operatore rotore a entrambe i membri:
 ![[Pasted image 20220502142110.png]]

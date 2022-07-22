@@ -9,7 +9,7 @@ $$
 Il nome _covariante_ deriva dal fatto che, nel passaggio da una base all'altra, queste componenti saranno determinate dalla **matrice del cambio base**. Nota la posizione di $k$ in $F_k$: si trova **in basso**.
 
 ##### `DEF` Componente *contro*variante
-Si definiscono $F_k$ $:=$ `componenti covarianti di F` _le coordinate di $\vec F$ rispetto alla base base $\{\ldots \vec e_k\}$_:
+Si definiscono $F^k$ $:=$ `componenti controvarianti di F` _le coordinate di $\vec F$ rispetto alla base base $\{\ldots \vec e_k\}$_:
 $$
 \vec F\ \underset{NE}{\dot =}\ F^k \cdot \vec e_k
 $$
